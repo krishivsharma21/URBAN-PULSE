@@ -1,0 +1,6533 @@
+[
+  {
+    "id": 1,
+    "name": "A+ Medispa Vasant Lok Hospital",
+    "phone": "0057 2614",
+    "lat": 28.5899,
+    "lon": 77.195
+  },
+  {
+    "id": 2,
+    "name": "Aakash Eye & General Hospital",
+    "phone": "0043 2532",
+    "lat": 28.586,
+    "lon": 76.972
+  },
+  {
+    "id": 3,
+    "name": "Aashirwad Nursing Home",
+    "phone": "0059 6596",
+    "lat": 28.5919,
+    "lon": 77.197
+  },
+  {
+    "id": 4,
+    "name": "Aashlok Nursing Home",
+    "phone": "0029 2616",
+    "lat": 28.5493,
+    "lon": 77.1959
+  },
+  {
+    "id": 5,
+    "name": "Aastha Hospital Kh.NO.42-18/5, Vill. & Post Badli",
+    "phone": "0042 2729",
+    "lat": 28.715,
+    "lon": 77.125
+  },
+  {
+    "id": 6,
+    "name": "Aastha Hospital L-2/50, New Mahavir Nagar,",
+    "phone": "0018 6582",
+    "lat": 28.5949,
+    "lon": 77.2
+  },
+  {
+    "id": 7,
+    "name": "ACN Hospital 3-A, New Vishwas Nagar, 18, Quarter",
+    "phone": "0032 2239",
+    "lat": 28.655,
+    "lon": 77.279
+  },
+  {
+    "id": 8,
+    "name": "Action Cancer Hospital",
+    "phone": "+91-11-23340000",
+    "lat": 28.649,
+    "lon": 77.093
+  },
+  {
+    "id": 9,
+    "name": "Aditya Hospital Aditya Hospital K.N. -486 Rajeev",
+    "phone": "0092 1085",
+    "lat": 28.722,
+    "lon": 77.157
+  },
+  {
+    "id": 10,
+    "name": "Aditya Medical Centre",
+    "phone": "0007 2745",
+    "lat": 28.5989,
+    "lon": 77.204
+  },
+  {
+    "id": 11,
+    "name": "Aditya Verma Medical Centre",
+    "phone": "0092 2244",
+    "lat": 28.618,
+    "lon": 77.276
+  },
+  {
+    "id": 12,
+    "name": "Adiva HealthCare 34, Uday Park, August Kranti",
+    "phone": "0049 4567",
+    "lat": 28.6009,
+    "lon": 77.206
+  },
+  {
+    "id": 13,
+    "name": "Adiva Hospital C-1, Green Park Ext Sh Arvindo",
+    "phone": "0016 4567",
+    "lat": 28.546,
+    "lon": 77.204
+  },
+  {
+    "id": 14,
+    "name": "Adiva Women Care 15, Anand Lok, Anand Lok",
+    "phone": "0045 4601",
+    "lat": 28.6029,
+    "lon": 77.208
+  },
+  {
+    "id": 15,
+    "name": "Aggarwal Charitable Hospital",
+    "phone": "0007 2384",
+    "lat": 28.6039,
+    "lon": 77.209
+  },
+  {
+    "id": 16,
+    "name": "Aggarwal Hospital B-1, Rohit Kunj, Shakurpur",
+    "phone": "0034 2718",
+    "lat": 28.678,
+    "lon": 77.156
+  },
+  {
+    "id": 17,
+    "name": "Aggarwal Medical Centre",
+    "phone": "0048 4173",
+    "lat": 28.6059,
+    "lon": 77.211
+  },
+  {
+    "id": 18,
+    "name": "Aggarwal Multispecialty",
+    "phone": "0052 2364",
+    "lat": 28.6069,
+    "lon": 77.212
+  },
+  {
+    "id": 19,
+    "name": "Aggarwal Nursing Home",
+    "phone": "0040 2728",
+    "lat": 28.847,
+    "lon": 77.096
+  },
+  {
+    "id": 20,
+    "name": "Agrawal Eye Institute",
+    "phone": "0017 2668",
+    "lat": 28.53,
+    "lon": 77.214
+  },
+  {
+    "id": 21,
+    "name": "Agrawal Nursing Home",
+    "phone": "0035 2738",
+    "lat": 28.678,
+    "lon": 77.168
+  },
+  {
+    "id": 22,
+    "name": "Ahuja Eye Centre AG-11(G.F.), Shalimar Bagh",
+    "phone": "0088 2747",
+    "lat": 28.713,
+    "lon": 77.165
+  },
+  {
+    "id": 23,
+    "name": "Ahuja Laser Eye Centre",
+    "phone": "0009 2742",
+    "lat": 28.6119,
+    "lon": 77.217
+  },
+  {
+    "id": 24,
+    "name": "Ahuja Medical Centre",
+    "phone": "0095 2871",
+    "lat": 28.651,
+    "lon": 77.199
+  },
+  {
+    "id": 25,
+    "name": "Ahuja Nursing Home",
+    "phone": "0008 2519",
+    "lat": 28.6139,
+    "lon": 77.219
+  },
+  {
+    "id": 26,
+    "name": "Akash Arogya Mandir",
+    "phone": "0017 4183",
+    "lat": 28.6149,
+    "lon": 77.22
+  },
+  {
+    "id": 27,
+    "name": "Akshika Urology & Laproscopy Centre",
+    "phone": "0058 4550",
+    "lat": 28.623,
+    "lon": 77.097
+  },
+  {
+    "id": 28,
+    "name": "All India Pryer Fellowship Mission",
+    "phone": "0074 2665",
+    "lat": 28.52,
+    "lon": 77.197
+  },
+  {
+    "id": 29,
+    "name": "Alsifa Multispeciality",
+    "phone": "0025 2994",
+    "lat": 28.5641,
+    "lon": 77.2867
+  },
+  {
+    "id": 30,
+    "name": "Aman Hospital BF-6, Tagore Garden",
+    "phone": "0027 2541",
+    "lat": 28.6189,
+    "lon": 77.194
+  },
+  {
+    "id": 31,
+    "name": "Aman Medical Centre",
+    "phone": "0030 2664",
+    "lat": 28.523,
+    "lon": 77.17
+  },
+  {
+    "id": 32,
+    "name": "Amar Eye Centre B-28, Mohan Park,Navin",
+    "phone": "0032 2232",
+    "lat": 28.6209,
+    "lon": 77.196
+  },
+  {
+    "id": 33,
+    "name": "Amar Leela Hospital (P) Ltd.",
+    "phone": "0058 2553",
+    "lat": 28.629,
+    "lon": 77.073
+  },
+  {
+    "id": 34,
+    "name": "Amardeep Nursing Home",
+    "phone": "0064 2549",
+    "lat": 28.6229,
+    "lon": 77.198
+  },
+  {
+    "id": 35,
+    "name": "Amit Nursing Home",
+    "phone": "0018 2812",
+    "lat": 28.6239,
+    "lon": 77.199
+  },
+  {
+    "id": 36,
+    "name": "Amulya Surgical Centre",
+    "phone": "0008 2588",
+    "lat": 28.6249,
+    "lon": 77.2
+  },
+  {
+    "id": 37,
+    "name": "Anand Hospital B-13Nirman Vihar Nirman Vihar",
+    "phone": "0043 2501",
+    "lat": 28.6259,
+    "lon": 77.201
+  },
+  {
+    "id": 38,
+    "name": "Anand Hospital B-52, Dholi Piao,Tilak Nagar",
+    "phone": "0018 2550",
+    "lat": 28.6269,
+    "lon": 77.202
+  },
+  {
+    "id": 39,
+    "name": "Anand Maya Hospital",
+    "phone": "0033 6454",
+    "lat": 28.6279,
+    "lon": 77.203
+  },
+  {
+    "id": 40,
+    "name": "Anand Nursing Home",
+    "phone": "0008 2578",
+    "lat": 28.663,
+    "lon": 77.162
+  },
+  {
+    "id": 41,
+    "name": "Anant Jyoti Eye Hospital",
+    "phone": "+91-11-23340000",
+    "lat": 28.6299,
+    "lon": 77.205
+  },
+  {
+    "id": 42,
+    "name": "Angra Eye Institute A-58, G.F. , Swasthya Vihar",
+    "phone": "0092 2241",
+    "lat": 28.6309,
+    "lon": 77.206
+  },
+  {
+    "id": 43,
+    "name": "Ansari Hospital RZ-20, F/B, Street No-6, Sagar Pur",
+    "phone": "0046 5249",
+    "lat": 28.6319,
+    "lon": 77.207
+  },
+  {
+    "id": 44,
+    "name": "A-One Hospital Pvt.Ltd.",
+    "phone": "0063 2527",
+    "lat": 28.6329,
+    "lon": 77.208
+  },
+  {
+    "id": 45,
+    "name": "Apaar Nursing Home",
+    "phone": "0059 2563",
+    "lat": 28.6339,
+    "lon": 77.209
+  },
+  {
+    "id": 46,
+    "name": "Apex Citi Hospital D-440, West Vinod Nagar",
+    "phone": "0092 2247",
+    "lat": 28.6349,
+    "lon": 77.21
+  },
+  {
+    "id": 47,
+    "name": "Apex ENT & Eye Centre",
+    "phone": "0016 1034",
+    "lat": 28.6359,
+    "lon": 77.211
+  },
+  {
+    "id": 48,
+    "name": "Apex Hospital Naraina, Delhi 110028 25793430 1100 30 SZ",
+    "phone": "0028 2579",
+    "lat": 28.6369,
+    "lon": 77.212
+  },
+  {
+    "id": 49,
+    "name": "Archana Medical Centre",
+    "phone": "0091 2277",
+    "lat": 28.632,
+    "lon": 77.299
+  },
+  {
+    "id": 50,
+    "name": "Arihant Eye Centre Shop No. 4 Burari Delhi 110084 27613650 1041 2 N",
+    "phone": "0084 2761",
+    "lat": 28.5889,
+    "lon": 77.214
+  },
+  {
+    "id": 51,
+    "name": "Ariston Multispeciality",
+    "phone": "0019 4172",
+    "lat": 28.5899,
+    "lon": 77.215
+  },
+  {
+    "id": 52,
+    "name": "Arjun Hospital 17/91, Subhash Nagar,",
+    "phone": "0027 2573",
+    "lat": 28.5909,
+    "lon": 77.216
+  },
+  {
+    "id": 53,
+    "name": "Arora Nursing Home",
+    "phone": "0052 2748",
+    "lat": 28.5919,
+    "lon": 77.217
+  },
+  {
+    "id": 54,
+    "name": "Artemis Plot No14, Sector 20 Dwarka",
+    "phone": "0075 6767",
+    "lat": 28.5613,
+    "lon": 77.0711
+  },
+  {
+    "id": 55,
+    "name": "Arun Charitable Memo. Hospital",
+    "phone": "+91-11-23340000",
+    "lat": 28.5939,
+    "lon": 77.219
+  },
+  {
+    "id": 56,
+    "name": "Arya Hospital C-1/101, Pankha Road, Janakpuri",
+    "phone": "0058 4157",
+    "lat": 28.602,
+    "lon": 77.096
+  },
+  {
+    "id": 57,
+    "name": "Aryan Hospital Ch. Chhaju Ram Market Vijay",
+    "phone": "0039 2775",
+    "lat": 28.5959,
+    "lon": 77.221
+  },
+  {
+    "id": 58,
+    "name": "Asha Hospital B-68 Vikas NagarBudh Vihar",
+    "phone": "0059 6557",
+    "lat": 28.5969,
+    "lon": 77.222
+  },
+  {
+    "id": 59,
+    "name": "Asha Maternity & Child Care Centre",
+    "phone": "0035 2739",
+    "lat": 28.666,
+    "lon": 77.176
+  },
+  {
+    "id": 60,
+    "name": "Ashirwad Hospital 5 & 6, Krishna Mkt., Jhilmil",
+    "phone": "0095 2216",
+    "lat": 28.5989,
+    "lon": 77.194
+  },
+  {
+    "id": 61,
+    "name": "Ashish Eye Hospital C2A/238A, Janakpuri,",
+    "phone": "0058 4552",
+    "lat": 28.607,
+    "lon": 77.071
+  },
+  {
+    "id": 62,
+    "name": "Ashok Nursing Home",
+    "phone": "2242420",
+    "lat": 28.6009,
+    "lon": 77.196
+  },
+  {
+    "id": 63,
+    "name": "Ashray Medical Centre",
+    "phone": "0015 2541",
+    "lat": 28.6019,
+    "lon": 77.197
+  },
+  {
+    "id": 64,
+    "name": "Aster Eye Care BF-1 Ist, II nd , IIIrd floor",
+    "phone": "0018 3085",
+    "lat": 28.6029,
+    "lon": 77.198
+  },
+  {
+    "id": 65,
+    "name": "Aster Eye Centre Plot No.32, 1st & 2nd Floor, Ring",
+    "phone": "0027 3085",
+    "lat": 28.6039,
+    "lon": 77.199
+  },
+  {
+    "id": 66,
+    "name": "Astha Nursing & Maternity Home",
+    "phone": "0002 2327",
+    "lat": 28.6049,
+    "lon": 77.2
+  },
+  {
+    "id": 67,
+    "name": "Attam Nursing Home",
+    "phone": "0041 2526",
+    "lat": 28.6059,
+    "lon": 77.201
+  },
+  {
+    "id": 68,
+    "name": "Australian Eye Care S-61, Panchsheel Park",
+    "phone": "0017 1056",
+    "lat": 28.6069,
+    "lon": 77.202
+  },
+  {
+    "id": 69,
+    "name": "20 E",
+    "phone": "0015 2541",
+    "lat": 28.7003,
+    "lon": 77.1061
+  },
+  {
+    "id": 70,
+    "name": "Ayushman Hospital Plot no.2, Sector- 12, H.L.Galleria,",
+    "phone": "0075 4281",
+    "lat": 28.5773,
+    "lon": 77.0571
+  },
+  {
+    "id": 71,
+    "name": "B.M.Gupta Nursing Home Pvt. Ltd.",
+    "phone": "0059 4715",
+    "lat": 28.6099,
+    "lon": 77.205
+  },
+  {
+    "id": 72,
+    "name": "B.T.Hospital 182, Mukhjerjee Park,",
+    "phone": "0018 2598",
+    "lat": 28.6109,
+    "lon": 77.206
+  },
+  {
+    "id": 73,
+    "name": "Baba Girver Das Charitable Hospital",
+    "phone": "0086 2758",
+    "lat": 28.6119,
+    "lon": 77.207
+  },
+  {
+    "id": 74,
+    "name": "Bagga Nursing Home & Maternity",
+    "phone": "0087 2526",
+    "lat": 28.6129,
+    "lon": 77.208
+  },
+  {
+    "id": 75,
+    "name": "29 N",
+    "phone": "0034 2718",
+    "lat": 28.621,
+    "lon": 77.085
+  },
+  {
+    "id": 76,
+    "name": "Bajaj Nursing Home 383, Kohat Enclave,Pitam",
+    "phone": "0034 2718",
+    "lat": 28.6149,
+    "lon": 77.21
+  },
+  {
+    "id": 77,
+    "name": "Bal Kishan Memorial Hospital",
+    "phone": "0062 2996",
+    "lat": 28.6159,
+    "lon": 77.211
+  },
+  {
+    "id": 78,
+    "name": "Balaji Hospital Gyola Mode, Deenpur,",
+    "phone": "0043 2501",
+    "lat": 28.6169,
+    "lon": 77.212
+  },
+  {
+    "id": 79,
+    "name": "Balaji Nursing Home",
+    "phone": "0058 2555",
+    "lat": 28.6179,
+    "lon": 77.213
+  },
+  {
+    "id": 80,
+    "name": "Balharas LeCure Pvt Ltd",
+    "phone": "0068 2953",
+    "lat": 28.6189,
+    "lon": 77.214
+  },
+  {
+    "id": 81,
+    "name": "Bali Nursing Home 20-B / 3 D.B.Gupta",
+    "phone": "0095 2871",
+    "lat": 28.658,
+    "lon": 77.196
+  },
+  {
+    "id": 82,
+    "name": "Banarsi Dass Chandiwala",
+    "phone": "0019 2682",
+    "lat": 28.6209,
+    "lon": 77.216
+  },
+  {
+    "id": 83,
+    "name": "Bansal Hospital 51, Tyagi Colony, Rajendra park",
+    "phone": "0041 6527",
+    "lat": 28.6219,
+    "lon": 77.217
+  },
+  {
+    "id": 84,
+    "name": "Bansal Hospital and Research Centre",
+    "phone": "0065 4132",
+    "lat": 28.6229,
+    "lon": 77.218
+  },
+  {
+    "id": 85,
+    "name": "Bansal Hospital(a unit of Namedi",
+    "phone": "0006 2326",
+    "lat": 28.6239,
+    "lon": 77.219
+  },
+  {
+    "id": 86,
+    "name": "Barkat Ram Memorial Hospital",
+    "phone": "0059 3264",
+    "lat": 28.6249,
+    "lon": 77.22
+  },
+  {
+    "id": 87,
+    "name": "Batla Hospital F-1, Khajoori Road, JOGA Bai",
+    "phone": "0025 1181",
+    "lat": 28.6259,
+    "lon": 77.221
+  },
+  {
+    "id": 88,
+    "name": "Batra Hospital & Medical Research",
+    "phone": "0027 2510",
+    "lat": 28.6269,
+    "lon": 77.222
+  },
+  {
+    "id": 89,
+    "name": "Batra Nursing Home",
+    "phone": "0063 2526",
+    "lat": 28.6279,
+    "lon": 77.223
+  },
+  {
+    "id": 90,
+    "name": "Bawra Hospital 98/75, Gali No.1 Prem Nagar, Near",
+    "phone": "1100 2773",
+    "lat": 28.6289,
+    "lon": 77.194
+  },
+  {
+    "id": 91,
+    "name": "Behl Hospital B-128,Naraina Vihar",
+    "phone": "0028 2577",
+    "lat": 28.6299,
+    "lon": 77.195
+  },
+  {
+    "id": 92,
+    "name": "Beni Madhav Medicare Centre",
+    "phone": "0027 2591",
+    "lat": 28.6309,
+    "lon": 77.196
+  },
+  {
+    "id": 93,
+    "name": "Bensups Hospital Bensups Avenue, Sector-12, Dwarka",
+    "phone": "0075 4555",
+    "lat": 28.6003,
+    "lon": 77.0501
+  },
+  {
+    "id": 94,
+    "name": "Best Care Medical Centre",
+    "phone": "0095 2212",
+    "lat": 28.6329,
+    "lon": 77.198
+  },
+  {
+    "id": 95,
+    "name": "Bhagat Chandra Hospital",
+    "phone": "0045 2505",
+    "lat": 28.6339,
+    "lon": 77.199
+  },
+  {
+    "id": 96,
+    "name": "Bhagat Hospital D-2/48- 49,Janakpuri",
+    "phone": "0058 2852",
+    "lat": 28.642,
+    "lon": 77.076
+  },
+  {
+    "id": 97,
+    "name": "Bhagat Medicare Centre",
+    "phone": "0029 2619",
+    "lat": 28.6359,
+    "lon": 77.201
+  },
+  {
+    "id": 98,
+    "name": "Bhagwan Mahavir Hospital",
+    "phone": "0085 2755",
+    "lat": 28.7293,
+    "lon": 77.1051
+  },
+  {
+    "id": 99,
+    "name": "Bhagwati Hospital C-5/OCF-6, Sec- 13, Rohini",
+    "phone": "0085 2786",
+    "lat": 28.7303,
+    "lon": 77.1061
+  },
+  {
+    "id": 100,
+    "name": "Bhagwati Hospital 1/113, Meharuli Mehrauli New Delhi",
+    "phone": "0030 2664",
+    "lat": 28.492,
+    "lon": 77.179
+  },
+  {
+    "id": 101,
+    "name": "Bharti Eye Foundation",
+    "phone": "0008 2588",
+    "lat": 28.5899,
+    "lon": 77.205
+  },
+  {
+    "id": 102,
+    "name": "Bharti Eye Hospital E-52,Greater Kailash",
+    "phone": "+91-11-23340000",
+    "lat": 28.5909,
+    "lon": 77.206
+  },
+  {
+    "id": 103,
+    "name": "Bharti Nursing Home",
+    "phone": "0045 2507",
+    "lat": 28.5919,
+    "lon": 77.207
+  },
+  {
+    "id": 104,
+    "name": "Bhasin Nursing Home",
+    "phone": "0055 2358",
+    "lat": 28.5929,
+    "lon": 77.208
+  },
+  {
+    "id": 105,
+    "name": "Bhatia Global Hospital & Indo",
+    "phone": "0087 2525",
+    "lat": 28.5939,
+    "lon": 77.209
+  },
+  {
+    "id": 106,
+    "name": "Bhatia Hospital A-25, Ramgarh Colony, GTK Road",
+    "phone": "0033 2763",
+    "lat": 28.5949,
+    "lon": 77.21
+  },
+  {
+    "id": 107,
+    "name": "Bimla Devi Hospital (Dr Walia Ch Trust).",
+    "phone": "0091 2278",
+    "lat": 28.59,
+    "lon": 77.297
+  },
+  {
+    "id": 108,
+    "name": "Bir Nursing Home A-10, Vikas Puri Vikas Puri Delhi 110018 25501704, 30967559",
+    "phone": "0018 2550",
+    "lat": 28.5969,
+    "lon": 77.212
+  },
+  {
+    "id": 109,
+    "name": "Braham Shakti Hospital and",
+    "phone": "0052 2753",
+    "lat": 28.5979,
+    "lon": 77.213
+  },
+  {
+    "id": 110,
+    "name": "C.M.Patel Hospital E-7, West Jyoti Nagar, Shahdara",
+    "phone": "+91-11-23340000",
+    "lat": 28.658,
+    "lon": 77.292
+  },
+  {
+    "id": 111,
+    "name": "Cankids Kidscare J-161/A, Gautam Nagar",
+    "phone": "0016 1112",
+    "lat": 28.5999,
+    "lon": 77.215
+  },
+  {
+    "id": 112,
+    "name": "Capital Nursing Home",
+    "phone": "0051 2209",
+    "lat": 28.6009,
+    "lon": 77.216
+  },
+  {
+    "id": 113,
+    "name": "Capital Nursing Home",
+    "phone": "0007 2745",
+    "lat": 28.6019,
+    "lon": 77.217
+  },
+  {
+    "id": 114,
+    "name": "Care & Cure 57 & 61 Pocket D- 15, Sector-7,",
+    "phone": "0085 2704",
+    "lat": 28.6953,
+    "lon": 77.1211
+  },
+  {
+    "id": 115,
+    "name": "Care & Cure Multispecialty",
+    "phone": "0085 2794",
+    "lat": 28.6963,
+    "lon": 77.1221
+  },
+  {
+    "id": 116,
+    "name": "Care Eye Centre & Diagnostic",
+    "phone": "0059 2852",
+    "lat": 28.612,
+    "lon": 77.096
+  },
+  {
+    "id": 117,
+    "name": "Care New Born Hospital",
+    "phone": "0063 1131",
+    "lat": 28.6059,
+    "lon": 77.221
+  },
+  {
+    "id": 118,
+    "name": "Care Well Medical Center",
+    "phone": "0019 4132",
+    "lat": 28.6069,
+    "lon": 77.222
+  },
+  {
+    "id": 119,
+    "name": "Central Hospital A-142/1, Ganesh Nagar",
+    "phone": "0018 2599",
+    "lat": 28.6079,
+    "lon": 77.223
+  },
+  {
+    "id": 120,
+    "name": "Centre for Sight F-19, Preet Vihar Preet Vihar",
+    "phone": "0092 4309",
+    "lat": 28.635,
+    "lon": 77.275
+  },
+  {
+    "id": 121,
+    "name": "Centre for Sight 304-409, 3rd Floor, Ring Road Mall",
+    "phone": "0085 4308",
+    "lat": 28.7023,
+    "lon": 77.0981
+  },
+  {
+    "id": 122,
+    "name": "Centre for Sight Roop Nagar, Delhi- 07",
+    "phone": "0007 4505",
+    "lat": 28.6109,
+    "lon": 77.196
+  },
+  {
+    "id": 123,
+    "name": "Centre For Sight 20, Sector 12A,Dwarka",
+    "phone": "0075 4152",
+    "lat": 28.5803,
+    "lon": 77.0501
+  },
+  {
+    "id": 124,
+    "name": "Centre for Sight J-12/30, Rajouri Garden",
+    "phone": "0027 4740",
+    "lat": 28.6129,
+    "lon": 77.198
+  },
+  {
+    "id": 125,
+    "name": "Ch. Chhaju Ram Hospital",
+    "phone": "0059 2533",
+    "lat": 28.609,
+    "lon": 76.975
+  },
+  {
+    "id": 126,
+    "name": "Chaddha Children Hospital & Nursing",
+    "phone": "0087 2526",
+    "lat": 28.6149,
+    "lon": 77.2
+  },
+  {
+    "id": 127,
+    "name": "Chaddha Eye Centre",
+    "phone": "0034 2718",
+    "lat": 28.6159,
+    "lon": 77.201
+  },
+  {
+    "id": 128,
+    "name": "Chanchal Nursing Home",
+    "phone": "0041 2596",
+    "lat": 28.6169,
+    "lon": 77.202
+  },
+  {
+    "id": 129,
+    "name": "Chand Hospital chand hospital RZ - 17 Raj Nagar -ii",
+    "phone": "0074 2536",
+    "lat": 28.5863,
+    "lon": 77.0561
+  },
+  {
+    "id": 130,
+    "name": "Chandraleela Hospital",
+    "phone": "0059 2856",
+    "lat": 28.6189,
+    "lon": 77.204
+  },
+  {
+    "id": 131,
+    "name": "Chaudhary Eye Centre & Leser",
+    "phone": "0002 2327",
+    "lat": 28.6199,
+    "lon": 77.205
+  },
+  {
+    "id": 132,
+    "name": "Chauhan Hospital Vill. & Post- Bakhatawar Pur,",
+    "phone": "0036 2772",
+    "lat": 28.6209,
+    "lon": 77.206
+  },
+  {
+    "id": 133,
+    "name": "Chawla Maternity Home",
+    "phone": "0018 2550",
+    "lat": 28.645,
+    "lon": 77.07
+  },
+  {
+    "id": 134,
+    "name": "Chawla Nursing Home",
+    "phone": "0027 2510",
+    "lat": 28.6229,
+    "lon": 77.208
+  },
+  {
+    "id": 135,
+    "name": "Chikitsa B-4, Saket, NE Saket Delhi 110017 26850033 , 26850044",
+    "phone": "0017 2685",
+    "lat": 28.6239,
+    "lon": 77.209
+  },
+  {
+    "id": 136,
+    "name": "Children & Maternity Centre",
+    "phone": "0085 2789",
+    "lat": 28.7173,
+    "lon": 77.1131
+  },
+  {
+    "id": 137,
+    "name": "Chinmaya Vision 28, Bhera Enclave Paschim Vihar",
+    "phone": "0087 2528",
+    "lat": 28.6259,
+    "lon": 77.211
+  },
+  {
+    "id": 138,
+    "name": "3 SW",
+    "phone": "0043 2532",
+    "lat": 28.622,
+    "lon": 76.988
+  },
+  {
+    "id": 139,
+    "name": "Choudhary Maternity & Dental",
+    "phone": "0053 2291",
+    "lat": 28.6279,
+    "lon": 77.213
+  },
+  {
+    "id": 140,
+    "name": "Choudhry Nursing Home",
+    "phone": "0040 2547",
+    "lat": 28.868,
+    "lon": 77.097
+  },
+  {
+    "id": 141,
+    "name": "Citizen Maternity Hospital",
+    "phone": "0052 2725",
+    "lat": 28.6299,
+    "lon": 77.215
+  },
+  {
+    "id": 142,
+    "name": "City Health Hospital",
+    "phone": "0043 1104",
+    "lat": 28.6309,
+    "lon": 77.216
+  },
+  {
+    "id": 143,
+    "name": "City Hospital B1/1, Pusa Road Pusa Road New Delhi",
+    "phone": "0060 4225",
+    "lat": 28.6319,
+    "lon": 77.217
+  },
+  {
+    "id": 144,
+    "name": "City Hospital 87-88, Samey Pur Samey Pur",
+    "phone": "0042 2729",
+    "lat": 28.6329,
+    "lon": 77.218
+  },
+  {
+    "id": 145,
+    "name": "COP Memorial Hospital",
+    "phone": "0030 2650",
+    "lat": 28.6339,
+    "lon": 77.219
+  },
+  {
+    "id": 146,
+    "name": "Cosmos Superspeciality",
+    "phone": "0092 1081",
+    "lat": 28.653,
+    "lon": 77.291
+  },
+  {
+    "id": 147,
+    "name": "CSM Medicentre Eye & Dental Care",
+    "phone": "0067 4144",
+    "lat": 28.6359,
+    "lon": 77.221
+  },
+  {
+    "id": 148,
+    "name": "Cygnous Orthocare Hospital",
+    "phone": "0016 4850",
+    "lat": 28.5933,
+    "lon": 77.2199
+  },
+  {
+    "id": 149,
+    "name": "D.R.Maternity Home and Nursing",
+    "phone": "0052 2722",
+    "lat": 28.6379,
+    "lon": 77.223
+  },
+  {
+    "id": 150,
+    "name": "Dashmesh Hospital C-141,Shiv Nagar Extn.Jail Road",
+    "phone": "0058 2561",
+    "lat": 28.5889,
+    "lon": 77.194
+  },
+  {
+    "id": 151,
+    "name": "Daya Hospital A-4/16, Paschim Vihar",
+    "phone": "0063 2525",
+    "lat": 28.5899,
+    "lon": 77.195
+  },
+  {
+    "id": 152,
+    "name": "Dayal Hospital & Maternity Centre",
+    "phone": "0085 2751",
+    "lat": 28.6833,
+    "lon": 77.0991
+  },
+  {
+    "id": 153,
+    "name": "Deep mChand Dialysic Centre&",
+    "phone": "0056 4552",
+    "lat": 28.5919,
+    "lon": 77.197
+  },
+  {
+    "id": 154,
+    "name": "Deepak Memorial Hospital & Medical",
+    "phone": "0092 2214",
+    "lat": 28.611,
+    "lon": 77.269
+  },
+  {
+    "id": 155,
+    "name": "34 NW",
+    "phone": "0085 2786",
+    "lat": 28.589,
+    "lon": 76.975
+  },
+  {
+    "id": 156,
+    "name": "Deepan Hospital Khasra No.139- 140, Najafgarh",
+    "phone": "0043 5565",
+    "lat": 28.59,
+    "lon": 76.976
+  },
+  {
+    "id": 157,
+    "name": "Del Nursing Home 1742, 1743 &1744, Lal Kuan",
+    "phone": "0006 2392",
+    "lat": 28.5959,
+    "lon": 77.201
+  },
+  {
+    "id": 158,
+    "name": "Delhi Children Hospital",
+    "phone": "+91-11-23340000",
+    "lat": 28.5969,
+    "lon": 77.202
+  },
+  {
+    "id": 159,
+    "name": "Delhi ENT Hospital & Research Centre",
+    "phone": "0017 3945",
+    "lat": 28.5979,
+    "lon": 77.203
+  },
+  {
+    "id": 160,
+    "name": "100 NW",
+    "phone": "0016 1112",
+    "lat": 28.594,
+    "lon": 76.98
+  },
+  {
+    "id": 161,
+    "name": "Delhi Heart & Lung Institute",
+    "phone": "0055 4299",
+    "lat": 28.5999,
+    "lon": 77.205
+  },
+  {
+    "id": 162,
+    "name": "Delhi Heart Hospital",
+    "phone": "0092 2215",
+    "lat": 28.6009,
+    "lon": 77.206
+  },
+  {
+    "id": 163,
+    "name": "Delhi Hospital 1, Ansari Road, Darya Ganj",
+    "phone": "0002 2327",
+    "lat": 28.6019,
+    "lon": 77.207
+  },
+  {
+    "id": 164,
+    "name": "Delhi Hospital A-39, Sarai Pipal Thala Extn.",
+    "phone": "0033 3266",
+    "lat": 28.6029,
+    "lon": 77.208
+  },
+  {
+    "id": 165,
+    "name": "Delhi IVF & Fertility Clinic",
+    "phone": "0001 2371",
+    "lat": 28.6039,
+    "lon": 77.209
+  },
+  {
+    "id": 166,
+    "name": "15 S",
+    "phone": "0085 2789",
+    "lat": 28.6,
+    "lon": 76.986
+  },
+  {
+    "id": 167,
+    "name": "Dev Hospital P-3/205-208, Sultanpur",
+    "phone": "0086 2518",
+    "lat": 28.6059,
+    "lon": 77.211
+  },
+  {
+    "id": 168,
+    "name": "Dev Medical Centre 27A, Meethapur Meethapu r",
+    "phone": "0044 2666",
+    "lat": 28.6069,
+    "lon": 77.212
+  },
+  {
+    "id": 169,
+    "name": "Dewan Nursing Home",
+    "phone": "0032 4569",
+    "lat": 28.6079,
+    "lon": 77.213
+  },
+  {
+    "id": 170,
+    "name": "Dharmarth Hospital E-10, Dairy Road Adarsh Nagar",
+    "phone": "0033 2767",
+    "lat": 28.6089,
+    "lon": 77.214
+  },
+  {
+    "id": 171,
+    "name": "Dharmshila Cancer Hospital & Research",
+    "phone": "+91-11-23340000",
+    "lat": 28.6099,
+    "lon": 77.215
+  },
+  {
+    "id": 172,
+    "name": "Dhruv Surgical Centre",
+    "phone": "0083 9213",
+    "lat": 28.6109,
+    "lon": 77.216
+  },
+  {
+    "id": 173,
+    "name": "Divya Prastha Hospital",
+    "phone": "0045 5549",
+    "lat": 28.6119,
+    "lon": 77.217
+  },
+  {
+    "id": 174,
+    "name": "DPMI Hospital B-20/28, New Hospital, Ashok",
+    "phone": "0096 2271",
+    "lat": 28.6129,
+    "lon": 77.218
+  },
+  {
+    "id": 175,
+    "name": "Dr Bharti's Nursing Home",
+    "phone": "0064 2549",
+    "lat": 28.628,
+    "lon": 77.1232
+  },
+  {
+    "id": 176,
+    "name": "Dr Meena Indra Hospital",
+    "phone": "0039 2775",
+    "lat": 28.6149,
+    "lon": 77.22
+  },
+  {
+    "id": 177,
+    "name": "Dr Ritu Eye Care Centre",
+    "phone": "0053 2291",
+    "lat": 28.6159,
+    "lon": 77.221
+  },
+  {
+    "id": 178,
+    "name": "25 C",
+    "phone": "0019 2682",
+    "lat": 28.612,
+    "lon": 76.998
+  },
+  {
+    "id": 179,
+    "name": "Dr Suresh Garg Eye & Laser Centre",
+    "phone": "0063 2528",
+    "lat": 28.67,
+    "lon": 77.114
+  },
+  {
+    "id": 180,
+    "name": "Dr Vidya Sagar Hospital",
+    "phone": "0030 2682",
+    "lat": 28.6189,
+    "lon": 77.194
+  },
+  {
+    "id": 181,
+    "name": "Dr. Agarwal Eye Clinic",
+    "phone": "0020 2546",
+    "lat": 28.6199,
+    "lon": 77.195
+  },
+  {
+    "id": 182,
+    "name": "Dr. Dhawan's Netra Eye",
+    "phone": "0059 1165",
+    "lat": 28.6209,
+    "lon": 77.196
+  },
+  {
+    "id": 183,
+    "name": "Dr. Grover's Nursing Home",
+    "phone": "0012 2583",
+    "lat": 28.6219,
+    "lon": 77.197
+  },
+  {
+    "id": 184,
+    "name": "Dr. Gupta ENT & Maternity Centre",
+    "phone": "0002 2325",
+    "lat": 28.6229,
+    "lon": 77.198
+  },
+  {
+    "id": 185,
+    "name": "Dr. Gupta Nursing Home",
+    "phone": "2285254",
+    "lat": 28.683,
+    "lon": 77.277
+  },
+  {
+    "id": 186,
+    "name": "Dr. Munjal Clinic & Mat. Centre",
+    "phone": "0052 2364",
+    "lat": 28.6249,
+    "lon": 77.2
+  },
+  {
+    "id": 187,
+    "name": "Dr. Shroff’s Charity Eye Hospital",
+    "phone": "0002 2325",
+    "lat": 28.6259,
+    "lon": 77.201
+  },
+  {
+    "id": 188,
+    "name": "Dr. Sunderlal Memo. Hospital",
+    "phone": "0062 2608",
+    "lat": 28.6269,
+    "lon": 77.202
+  },
+  {
+    "id": 189,
+    "name": "Dr. Sushma Jindal Hospital",
+    "phone": "0095 2231",
+    "lat": 28.6279,
+    "lon": 77.203
+  },
+  {
+    "id": 190,
+    "name": "Dr. Vidya Sagar Kaushalya Devi",
+    "phone": "0065 2984",
+    "lat": 28.6289,
+    "lon": 77.204
+  },
+  {
+    "id": 191,
+    "name": "Dr. Vikas Hospital E 253/B, Main Khanjawala Road,",
+    "phone": "0086 1215",
+    "lat": 28.6299,
+    "lon": 77.205
+  },
+  {
+    "id": 192,
+    "name": "Dr.Arora's Eye Care Centre",
+    "phone": "0063 2526",
+    "lat": 28.6309,
+    "lon": 77.206
+  },
+  {
+    "id": 193,
+    "name": "Dr.B.D.Attam Hospital & Medical",
+    "phone": "0052 2723",
+    "lat": 28.6319,
+    "lon": 77.207
+  },
+  {
+    "id": 194,
+    "name": "Dr.B.L.Kapur Memo. Hospital",
+    "phone": "0005 2575",
+    "lat": 28.6329,
+    "lon": 77.208
+  },
+  {
+    "id": 195,
+    "name": "Dr.Badhwar Nursing Home &",
+    "phone": "0059 9871",
+    "lat": 28.629,
+    "lon": 76.985
+  },
+  {
+    "id": 196,
+    "name": "Dr.Bajaj Eye Hospital (P) Ltd.",
+    "phone": "0093 2213",
+    "lat": 28.6349,
+    "lon": 77.21
+  },
+  {
+    "id": 197,
+    "name": "Dr.Kapur's-The Healing Touch",
+    "phone": "0018 2853",
+    "lat": 28.659,
+    "lon": 77.074
+  },
+  {
+    "id": 198,
+    "name": "Dr.Mukesh Ortho & Trauma Centre",
+    "phone": "0040 2728",
+    "lat": 28.876,
+    "lon": 77.095
+  },
+  {
+    "id": 199,
+    "name": "Dr.Nanda's Eye Care Centre",
+    "phone": "0075 2536",
+    "lat": 28.6063,
+    "lon": 77.0661
+  },
+  {
+    "id": 200,
+    "name": "Dr.Patnaik's Laser Eye Institute cum",
+    "phone": "0024 4171",
+    "lat": 28.5435,
+    "lon": 77.2418
+  },
+  {
+    "id": 201,
+    "name": "Dr.Pundeer's Metro Hospital",
+    "phone": "0093 6565",
+    "lat": 28.585,
+    "lon": 76.991
+  },
+  {
+    "id": 202,
+    "name": "Dr.R.B.Gupta Nursing Home",
+    "phone": "0032 2232",
+    "lat": 28.5909,
+    "lon": 77.216
+  },
+  {
+    "id": 203,
+    "name": "Dr.Reena Janana & Surgical Hospital",
+    "phone": "0040 2728",
+    "lat": 28.831,
+    "lon": 77.1
+  },
+  {
+    "id": 204,
+    "name": "Dr.Sharma Nursing Home",
+    "phone": "0032 2245",
+    "lat": 28.652,
+    "lon": 77.296
+  },
+  {
+    "id": 205,
+    "name": "Dr.Ved Prakah Kohli Medical",
+    "phone": "0003 2464",
+    "lat": 28.5939,
+    "lon": 77.219
+  },
+  {
+    "id": 206,
+    "name": "Drishti Eye Care Shop No.4, Patparganj Road",
+    "phone": "+91-11-23340000",
+    "lat": 28.5949,
+    "lon": 77.22
+  },
+  {
+    "id": 207,
+    "name": "15 NW",
+    "phone": "0043 1104",
+    "lat": 28.591,
+    "lon": 76.997
+  },
+  {
+    "id": 208,
+    "name": "Dristi The Vision an Advance Eye Care",
+    "phone": "0040 9250",
+    "lat": 28.5969,
+    "lon": 77.222
+  },
+  {
+    "id": 209,
+    "name": "DRS Northex Eye Institute",
+    "phone": "0085 2705",
+    "lat": 28.6903,
+    "lon": 77.1261
+  },
+  {
+    "id": 210,
+    "name": "Durga Hospital (P) Ltd.",
+    "phone": "0009 4510",
+    "lat": 28.5989,
+    "lon": 77.194
+  },
+  {
+    "id": 211,
+    "name": "Dwarka Hospital B-91,92, Patel Garden, Near",
+    "phone": "0059 2533",
+    "lat": 28.5683,
+    "lon": 77.0481
+  },
+  {
+    "id": 212,
+    "name": "Dwarka Medicare & Maternity Centre",
+    "phone": "0059 2533",
+    "lat": 28.5693,
+    "lon": 77.0491
+  },
+  {
+    "id": 213,
+    "name": "Ear Nose Throat & Eye Hospital,(Unit",
+    "phone": "0051 2244",
+    "lat": 28.6019,
+    "lon": 77.197
+  },
+  {
+    "id": 214,
+    "name": "Earth Charitable Hospital",
+    "phone": "0094 1207",
+    "lat": 28.6029,
+    "lon": 77.198
+  },
+  {
+    "id": 215,
+    "name": "East Delhi Medical Centre",
+    "phone": "0032 2228",
+    "lat": 28.663,
+    "lon": 77.277
+  },
+  {
+    "id": 216,
+    "name": "10 E",
+    "phone": "0043 5565",
+    "lat": 28.6,
+    "lon": 76.976
+  },
+  {
+    "id": 217,
+    "name": "Eden Hospital B-162, East of Kailash",
+    "phone": "0065 4162",
+    "lat": 28.6059,
+    "lon": 77.201
+  },
+  {
+    "id": 218,
+    "name": "Ekansh Nursing Home",
+    "phone": "0042 2729",
+    "lat": 28.6069,
+    "lon": 77.202
+  },
+  {
+    "id": 219,
+    "name": "ENT Care Hospital A-38, Vikas Puri, Vikas Puri Delhi 110018 25513955 1022 4 W",
+    "phone": "0018 2551",
+    "lat": 28.6079,
+    "lon": 77.203
+  },
+  {
+    "id": 220,
+    "name": "Escorts Heart Institute & Research",
+    "phone": "0025 2682",
+    "lat": 28.5551,
+    "lon": 77.2677
+  },
+  {
+    "id": 221,
+    "name": "Eye Care Centre F-182, Dilshad Colony",
+    "phone": "0095 1117",
+    "lat": 28.6099,
+    "lon": 77.205
+  },
+  {
+    "id": 222,
+    "name": "Eye Q Vision Pvt. Ltd",
+    "phone": "0088 1195",
+    "lat": 28.6109,
+    "lon": 77.206
+  },
+  {
+    "id": 223,
+    "name": "Eye Sight Plot no. 124, sec.- 12 A, Dwarka",
+    "phone": "+91-11-23340000",
+    "lat": 28.5803,
+    "lon": 77.0601
+  },
+  {
+    "id": 224,
+    "name": "Eye Sight 52A, Pkt-2, DDA Flats, Sector -6,",
+    "phone": "0075 3190",
+    "lat": 28.5813,
+    "lon": 77.0611
+  },
+  {
+    "id": 225,
+    "name": "Family Hospital (Pvt.) Ltd.",
+    "phone": "0085 2751",
+    "lat": 28.7063,
+    "lon": 77.1121
+  },
+  {
+    "id": 226,
+    "name": "Family Hospital (Unit of Family",
+    "phone": "0018 2543",
+    "lat": 28.6149,
+    "lon": 77.21
+  },
+  {
+    "id": 227,
+    "name": "Faraz Hospital F-167/2, Shaheen Bagh, Jamia Nagar",
+    "phone": "0025 6510",
+    "lat": 28.5621,
+    "lon": 77.2747
+  },
+  {
+    "id": 228,
+    "name": "Flex Medical Centre B-1/4, Paschim Vihar",
+    "phone": "0063 2528",
+    "lat": 28.6169,
+    "lon": 77.212
+  },
+  {
+    "id": 229,
+    "name": "Foresight Eye Clinic H.NO 106, rps, dda Flats Sheikh",
+    "phone": "0017 2601",
+    "lat": 28.6179,
+    "lon": 77.213
+  },
+  {
+    "id": 230,
+    "name": "Fortis C-Doc B-16, Chrig Enclave",
+    "phone": "0048 4930",
+    "lat": 28.6189,
+    "lon": 77.214
+  },
+  {
+    "id": 231,
+    "name": "Fortis Flt. Rajan Dhall Hospital",
+    "phone": "+91-11-23340000",
+    "lat": 28.526,
+    "lon": 77.146
+  },
+  {
+    "id": 232,
+    "name": "Fortis Hospital AA Block, Shalimar Bagh",
+    "phone": "0088 2682",
+    "lat": 28.723,
+    "lon": 77.165
+  },
+  {
+    "id": 233,
+    "name": "Fortis La Femme S-549, Greater Kailash-II",
+    "phone": "0048 3143",
+    "lat": 28.6219,
+    "lon": 77.217
+  },
+  {
+    "id": 234,
+    "name": "Friends Hospital 339, Uday Mangal Bhawan Haiderpur",
+    "phone": "0088 6593",
+    "lat": 28.6229,
+    "lon": 77.218
+  },
+  {
+    "id": 235,
+    "name": "G.S.Eye Research & Care Centre",
+    "phone": "0092 2224",
+    "lat": 28.642,
+    "lon": 77.29
+  },
+  {
+    "id": 236,
+    "name": "Gambhir Hospital K-74, Rajouri Garden",
+    "phone": "0027 2541",
+    "lat": 28.6249,
+    "lon": 77.22
+  },
+  {
+    "id": 237,
+    "name": "Gandhi Nursing Home",
+    "phone": "0045 2533",
+    "lat": 28.6259,
+    "lon": 77.221
+  },
+  {
+    "id": 238,
+    "name": "43 W",
+    "phone": "0064 2549",
+    "lat": 28.533,
+    "lon": 77.153
+  },
+  {
+    "id": 239,
+    "name": "Ganga Bishan Memorial Hospital",
+    "phone": "0033 2712",
+    "lat": 28.6279,
+    "lon": 77.223
+  },
+  {
+    "id": 240,
+    "name": "Ganpati Nursing Home & Maternity",
+    "phone": "0094 2261",
+    "lat": 28.6289,
+    "lon": 77.194
+  },
+  {
+    "id": 241,
+    "name": "Garg Nursing Home 8, AGCR Enclave,Karkardo",
+    "phone": "0092 2214",
+    "lat": 28.6299,
+    "lon": 77.195
+  },
+  {
+    "id": 242,
+    "name": "Garg Nursing Home 3675 /11, Jai Mata Market,Tri Nagar",
+    "phone": "0035 2739",
+    "lat": 28.699,
+    "lon": 77.149
+  },
+  {
+    "id": 243,
+    "name": "Gaudium IVF & Gynae Centre",
+    "phone": "0058 2561",
+    "lat": 28.6319,
+    "lon": 77.197
+  },
+  {
+    "id": 244,
+    "name": "Gautam Nursing Home",
+    "phone": "0035 7244",
+    "lat": 28.6329,
+    "lon": 77.198
+  },
+  {
+    "id": 245,
+    "name": "Gautam Nursing Home & Mat.",
+    "phone": "0059 2563",
+    "lat": 28.6339,
+    "lon": 77.199
+  },
+  {
+    "id": 246,
+    "name": "Gayatri Clinic & Maternity Centre",
+    "phone": "0040 2778",
+    "lat": 28.874,
+    "lon": 77.083
+  },
+  {
+    "id": 247,
+    "name": "Gayatri Nursing Home",
+    "phone": "0009 2741",
+    "lat": 28.6359,
+    "lon": 77.201
+  },
+  {
+    "id": 248,
+    "name": "Gee Bee Nursing Home",
+    "phone": "0045 2507",
+    "lat": 28.6053,
+    "lon": 77.0551
+  },
+  {
+    "id": 249,
+    "name": "Geetanjali Medical Centre",
+    "phone": "0005 2573",
+    "lat": 28.676,
+    "lon": 77.184
+  },
+  {
+    "id": 250,
+    "name": "Genesis Hospital C-1/130, Janakpuri",
+    "phone": "0058 4525",
+    "lat": 28.596,
+    "lon": 77.08
+  },
+  {
+    "id": 251,
+    "name": "Ghai Medical & Gynae Centre",
+    "phone": "0058 2552",
+    "lat": 28.597,
+    "lon": 77.081
+  },
+  {
+    "id": 252,
+    "name": "Girgla Clinic WZ-65 A, Pratap Nagar,Jail Road",
+    "phone": "0064 2812",
+    "lat": 28.5909,
+    "lon": 77.206
+  },
+  {
+    "id": 253,
+    "name": "Global Hospital RZF-905/22Rj Nagar, Part-II",
+    "phone": "0075 6524",
+    "lat": 28.5919,
+    "lon": 77.207
+  },
+  {
+    "id": 254,
+    "name": "Global Kalra Hospital & Heart",
+    "phone": "0059 2856",
+    "lat": 28.5929,
+    "lon": 77.208
+  },
+  {
+    "id": 255,
+    "name": "Gobhania Nirogdham",
+    "phone": "0043 2501",
+    "lat": 28.5939,
+    "lon": 77.209
+  },
+  {
+    "id": 256,
+    "name": "Goel Health Centre B-151, Rama Park Uttam Nagar",
+    "phone": "0059 2535",
+    "lat": 28.5949,
+    "lon": 77.21
+  },
+  {
+    "id": 257,
+    "name": "10 NW",
+    "phone": "0048 4173",
+    "lat": 28.502,
+    "lon": 77.142
+  },
+  {
+    "id": 258,
+    "name": "Gopal Nursing Home & Eye",
+    "phone": "+91-11-23340000",
+    "lat": 28.5969,
+    "lon": 77.212
+  },
+  {
+    "id": 259,
+    "name": "Goswami Medical Centre and Nursing",
+    "phone": "0092 2214",
+    "lat": 28.5979,
+    "lon": 77.213
+  },
+  {
+    "id": 260,
+    "name": "10 C",
+    "phone": "0092 2241",
+    "lat": 28.505,
+    "lon": 77.145
+  },
+  {
+    "id": 261,
+    "name": "Goyal Eye Institute 1/10, East Patel Nagar",
+    "phone": "0008 2588",
+    "lat": 28.5999,
+    "lon": 77.215
+  },
+  {
+    "id": 262,
+    "name": "Goyal Hospital A-51, Udai Vihar, Main Chander",
+    "phone": "0041 1216",
+    "lat": 28.6009,
+    "lon": 77.216
+  },
+  {
+    "id": 263,
+    "name": "Goyal Hospital & Urology Centre",
+    "phone": "0051 2209",
+    "lat": 28.6019,
+    "lon": 77.217
+  },
+  {
+    "id": 264,
+    "name": "Goyal Medical Centre",
+    "phone": "0057 2614",
+    "lat": 28.6029,
+    "lon": 77.218
+  },
+  {
+    "id": 265,
+    "name": "Goyal's Medical Centre",
+    "phone": "+91-11-23340000",
+    "lat": 28.6039,
+    "lon": 77.219
+  },
+  {
+    "id": 266,
+    "name": "Grover Medical Centre",
+    "phone": "0006 2321",
+    "lat": 28.6049,
+    "lon": 77.22
+  },
+  {
+    "id": 267,
+    "name": "GTK Hospital A-11,Sarai Pipal Thala",
+    "phone": "0033 2767",
+    "lat": 28.6059,
+    "lon": 77.221
+  },
+  {
+    "id": 268,
+    "name": "Gujarmal Modi Hospital",
+    "phone": "0017 2685",
+    "lat": 28.6069,
+    "lon": 77.222
+  },
+  {
+    "id": 269,
+    "name": "Gujral Medical Centre",
+    "phone": "0018 2542",
+    "lat": 28.6079,
+    "lon": 77.223
+  },
+  {
+    "id": 270,
+    "name": "Gupta Hospital A-56, Main Kanjhawala Road,",
+    "phone": "0041 2753",
+    "lat": 28.6089,
+    "lon": 77.194
+  },
+  {
+    "id": 271,
+    "name": "Gupta Maternity Home",
+    "phone": "0018 2550",
+    "lat": 28.633,
+    "lon": 77.058
+  },
+  {
+    "id": 272,
+    "name": "Gupta Medical Centre",
+    "phone": "0063 2526",
+    "lat": 28.6109,
+    "lon": 77.196
+  },
+  {
+    "id": 273,
+    "name": "5 E",
+    "phone": "0027 2541",
+    "lat": 28.619,
+    "lon": 77.073
+  },
+  {
+    "id": 274,
+    "name": "Gupta Nursing Home",
+    "phone": "0039 2775",
+    "lat": 28.6129,
+    "lon": 77.198
+  },
+  {
+    "id": 275,
+    "name": "Gupta Nursing Home",
+    "phone": "0058 2749",
+    "lat": 28.6139,
+    "lon": 77.199
+  },
+  {
+    "id": 276,
+    "name": "Gupta Ultrasound & Heart Care Centre",
+    "phone": "0063 4545",
+    "lat": 28.6149,
+    "lon": 77.2
+  },
+  {
+    "id": 277,
+    "name": "25 W",
+    "phone": "0025 6510",
+    "lat": 28.522,
+    "lon": 77.132
+  },
+  {
+    "id": 278,
+    "name": "Guru Harkishan Hospital",
+    "phone": "0014 3096",
+    "lat": 28.6169,
+    "lon": 77.202
+  },
+  {
+    "id": 279,
+    "name": "HAKIM ABDUL HADEEM",
+    "phone": "0062 2605",
+    "lat": 28.6179,
+    "lon": 77.203
+  },
+  {
+    "id": 280,
+    "name": "Haleem Medical Centre",
+    "phone": "28949854",
+    "lat": 28.6189,
+    "lon": 77.204
+  },
+  {
+    "id": 281,
+    "name": "Hameedia Medical Centre",
+    "phone": "0006 1202",
+    "lat": 28.6199,
+    "lon": 77.205
+  },
+  {
+    "id": 282,
+    "name": "Handa Nursing Home",
+    "phone": "0015 2543",
+    "lat": 28.6209,
+    "lon": 77.206
+  },
+  {
+    "id": 283,
+    "name": "Handa Stone Clinic 127, Raja Garden Raja Garden",
+    "phone": "0015 2543",
+    "lat": 28.6219,
+    "lon": 77.207
+  },
+  {
+    "id": 284,
+    "name": "Hans Charitable Hospital",
+    "phone": "0092 2760",
+    "lat": 28.6229,
+    "lon": 77.208
+  },
+  {
+    "id": 285,
+    "name": "Hardik Hospital 29 C, Budh Bazar, Hastsal",
+    "phone": "0059 3204",
+    "lat": 28.6239,
+    "lon": 77.209
+  },
+  {
+    "id": 286,
+    "name": "Hari Eye & Dental Centre",
+    "phone": "0015 2593",
+    "lat": 28.62,
+    "lon": 76.986
+  },
+  {
+    "id": 287,
+    "name": "Hari Hospital 74 A, Hari Enclave Sultanpur i",
+    "phone": "0086 2518",
+    "lat": 28.6259,
+    "lon": 77.211
+  },
+  {
+    "id": 288,
+    "name": "Healing Touch Hospital",
+    "phone": "0016 2685",
+    "lat": 28.6269,
+    "lon": 77.212
+  },
+  {
+    "id": 289,
+    "name": "Health Point Hospital",
+    "phone": "0062 2064",
+    "lat": 28.6279,
+    "lon": 77.213
+  },
+  {
+    "id": 290,
+    "name": "Hemraj Jain Hospital",
+    "phone": "0034 2702",
+    "lat": 28.6289,
+    "lon": 77.214
+  },
+  {
+    "id": 291,
+    "name": "Hemraj Jain Hospital",
+    "phone": "0058 2555",
+    "lat": 28.637,
+    "lon": 77.091
+  },
+  {
+    "id": 292,
+    "name": "Hiba Medical Centre",
+    "phone": "0025 2698",
+    "lat": 28.6309,
+    "lon": 77.216
+  },
+  {
+    "id": 293,
+    "name": "15 NW",
+    "phone": "0018 2550",
+    "lat": 28.627,
+    "lon": 76.993
+  },
+  {
+    "id": 294,
+    "name": "Hi-Tech Eye Centre A-12, F.F., Vikaspuri",
+    "phone": "0018 2550",
+    "lat": 28.656,
+    "lon": 77.081
+  },
+  {
+    "id": 295,
+    "name": "Holy Angle’s Hospital",
+    "phone": "0057 2614",
+    "lat": 28.6339,
+    "lon": 77.219
+  },
+  {
+    "id": 296,
+    "name": "Holy Child Nursing Home",
+    "phone": "0051 2241",
+    "lat": 28.6349,
+    "lon": 77.22
+  },
+  {
+    "id": 297,
+    "name": "Holy Family Hospital",
+    "phone": "0025 2684",
+    "lat": 28.5821,
+    "lon": 77.2847
+  },
+  {
+    "id": 298,
+    "name": "Human Care HospitalPlot No. -37, Prem Dham Defence",
+    "phone": "0043 1197",
+    "lat": 28.632,
+    "lon": 76.998
+  },
+  {
+    "id": 299,
+    "name": "Hygiea Hospital 210A Munirka Viloage",
+    "phone": "0062 1082",
+    "lat": 28.6379,
+    "lon": 77.223
+  },
+  {
+    "id": 300,
+    "name": "I Care Centre C-6/9, Safdarjung Development",
+    "phone": "+91-11-23340000",
+    "lat": 28.5453,
+    "lon": 77.1919
+  },
+  {
+    "id": 301,
+    "name": "Indian Institute of Optholomogy",
+    "phone": "0048 2922",
+    "lat": 28.5899,
+    "lon": 77.195
+  },
+  {
+    "id": 302,
+    "name": "Indian Spinal Injuries Centre",
+    "phone": "0070 2689",
+    "lat": 28.497,
+    "lon": 77.127
+  },
+  {
+    "id": 303,
+    "name": "Indira Nursing Home",
+    "phone": "0040 2728",
+    "lat": 28.831,
+    "lon": 77.08
+  },
+  {
+    "id": 304,
+    "name": "Indraprastha Apollo Hospital",
+    "phone": "0044 2692",
+    "lat": 28.5113,
+    "lon": 77.2721
+  },
+  {
+    "id": 305,
+    "name": "Indraprastha Medical Centre",
+    "phone": "0070 2613",
+    "lat": 28.5939,
+    "lon": 77.199
+  },
+  {
+    "id": 306,
+    "name": "Insite Eye Clinic J-9/5., Rajouri Garden",
+    "phone": "0027 2544",
+    "lat": 28.5949,
+    "lon": 77.2
+  },
+  {
+    "id": 307,
+    "name": "Iqbal Faizy Ch. Medical Centre &",
+    "phone": "0025 2692",
+    "lat": 28.5421,
+    "lon": 77.2647
+  },
+  {
+    "id": 308,
+    "name": "Iren IVF Centre Safdarjang, New Delhi",
+    "phone": "0029 1106",
+    "lat": 28.5969,
+    "lon": 77.202
+  },
+  {
+    "id": 309,
+    "name": "Irene Hospital DD-23, Kalkaji Kalkaji New delhi",
+    "phone": "0019 4992",
+    "lat": 28.5979,
+    "lon": 77.203
+  },
+  {
+    "id": 310,
+    "name": "Ishan Hospital Pvt. Ltd.",
+    "phone": "0085 2789",
+    "lat": 28.6913,
+    "lon": 77.1071
+  },
+  {
+    "id": 311,
+    "name": "6 W",
+    "phone": "0052 2753",
+    "lat": 28.506,
+    "lon": 77.136
+  },
+  {
+    "id": 312,
+    "name": "J K Hospital B- 1 / 4A, JanakPuri",
+    "phone": "0058 2550",
+    "lat": 28.608,
+    "lon": 77.082
+  },
+  {
+    "id": 313,
+    "name": "J M S Batra Hospital",
+    "phone": "0058 2555",
+    "lat": 28.609,
+    "lon": 77.083
+  },
+  {
+    "id": 314,
+    "name": "J.D.Medical Centre 1/4649/8B, Mandi Road, Modern",
+    "phone": "0093 2259",
+    "lat": 28.6029,
+    "lon": 77.208
+  },
+  {
+    "id": 315,
+    "name": "J.P.Hospital A-1/7A, Main Wazirabad Road",
+    "phone": "0053 2218",
+    "lat": 28.6039,
+    "lon": 77.209
+  },
+  {
+    "id": 316,
+    "name": "J.P.Memorial Hospital",
+    "phone": "0095 2235",
+    "lat": 28.6049,
+    "lon": 77.21
+  },
+  {
+    "id": 317,
+    "name": "Jai Balaji MEDICAL Centre",
+    "phone": "0059 6576",
+    "lat": 28.6059,
+    "lon": 77.211
+  },
+  {
+    "id": 318,
+    "name": "Jai Maa Tara Hospital",
+    "phone": "0052 1099",
+    "lat": 28.661,
+    "lon": 77.169
+  },
+  {
+    "id": 319,
+    "name": "Jain Charitable Hospital",
+    "phone": "0031 2243",
+    "lat": 28.6079,
+    "lon": 77.213
+  },
+  {
+    "id": 320,
+    "name": "Jain Child & Maternity Hospital",
+    "phone": "0052 2748",
+    "lat": 28.6089,
+    "lon": 77.214
+  },
+  {
+    "id": 321,
+    "name": "Jain Clinic ENT & Eye Care Centre",
+    "phone": "0040 2728",
+    "lat": 28.849,
+    "lon": 77.098
+  },
+  {
+    "id": 322,
+    "name": "Jain Eye & Medical Centre",
+    "phone": "0088 6460",
+    "lat": 28.6109,
+    "lon": 77.216
+  },
+  {
+    "id": 323,
+    "name": "Jain Eye Hospital & Laser Centre",
+    "phone": "0088 2747",
+    "lat": 28.6119,
+    "lon": 77.217
+  },
+  {
+    "id": 324,
+    "name": "Jain Hospital 177-178, Jagriti Enclave",
+    "phone": "0092 2214",
+    "lat": 28.6129,
+    "lon": 77.218
+  },
+  {
+    "id": 325,
+    "name": "Jain Hospital 4 Puspanjali puspanjali Delhi 110092 22161561 1158 13 E",
+    "phone": "0092 2216",
+    "lat": 28.6139,
+    "lon": 77.219
+  },
+  {
+    "id": 326,
+    "name": "Jain Medical Centre A-39, South Extn. Part-II",
+    "phone": "0049 2625",
+    "lat": 28.6149,
+    "lon": 77.22
+  },
+  {
+    "id": 327,
+    "name": "Jain Muni Roshan Lal Ch. Trust",
+    "phone": "0035 2738",
+    "lat": 28.684,
+    "lon": 77.174
+  },
+  {
+    "id": 328,
+    "name": "16 C",
+    "phone": "0041 2526",
+    "lat": 28.523,
+    "lon": 77.153
+  },
+  {
+    "id": 329,
+    "name": "Jain Surgical Clinic 358, Tarun Enclave,",
+    "phone": "0085 2701",
+    "lat": 28.703,
+    "lon": 77.145
+  },
+  {
+    "id": 330,
+    "name": "Jain Vision Centre 1/2297, Shahdara Shahdara Delhi 110032 1228 5 NE",
+    "phone": "0032 1228",
+    "lat": 28.678,
+    "lon": 77.272
+  },
+  {
+    "id": 331,
+    "name": "Jainak Medical & Orthopaedic Centre",
+    "phone": "0058 2554",
+    "lat": 28.627,
+    "lon": 77.071
+  },
+  {
+    "id": 332,
+    "name": "Jainar Hospital A-328, Meera Bagh, Paschim",
+    "phone": "0087 2526",
+    "lat": 28.6209,
+    "lon": 77.196
+  },
+  {
+    "id": 333,
+    "name": "Jaipur Golden Hospital",
+    "phone": "0085 2751",
+    "lat": 28.7143,
+    "lon": 77.1001
+  },
+  {
+    "id": 334,
+    "name": "Janak Nursing Home & MTP",
+    "phone": "0058 2555",
+    "lat": 28.63,
+    "lon": 77.074
+  },
+  {
+    "id": 335,
+    "name": "Janki Das Kapoor Memorial Hospital",
+    "phone": "0008 2570",
+    "lat": 28.6239,
+    "lon": 77.199
+  },
+  {
+    "id": 336,
+    "name": "25 N",
+    "phone": "0008 2588",
+    "lat": 28.531,
+    "lon": 77.131
+  },
+  {
+    "id": 337,
+    "name": "Jannat Nursing Home",
+    "phone": "0094 1062",
+    "lat": 28.6259,
+    "lon": 77.201
+  },
+  {
+    "id": 338,
+    "name": "Jaslok Medical Centre",
+    "phone": "0053 2226",
+    "lat": 28.6269,
+    "lon": 77.202
+  },
+  {
+    "id": 339,
+    "name": "Jasrotia Hospital A-252,Hari Nagar Hari Nagar",
+    "phone": "0064 2549",
+    "lat": 28.642,
+    "lon": 77.1072
+  },
+  {
+    "id": 340,
+    "name": "4 C",
+    "phone": "0087 2525",
+    "lat": 28.535,
+    "lon": 77.135
+  },
+  {
+    "id": 341,
+    "name": "Jay Clinic & Maternity Home",
+    "phone": "0043 2456",
+    "lat": 28.625,
+    "lon": 76.981
+  },
+  {
+    "id": 342,
+    "name": "22 NW",
+    "phone": "0040 9312",
+    "lat": 28.626,
+    "lon": 76.982
+  },
+  {
+    "id": 343,
+    "name": "8 W",
+    "phone": "0045 2533",
+    "lat": 28.538,
+    "lon": 77.138
+  },
+  {
+    "id": 344,
+    "name": "Jeevan Jyoti Clinic & Hospital",
+    "phone": "0095 2258",
+    "lat": 28.6329,
+    "lon": 77.208
+  },
+  {
+    "id": 345,
+    "name": "Jeevan Nursing Home",
+    "phone": "0005 2586",
+    "lat": 28.6339,
+    "lon": 77.209
+  },
+  {
+    "id": 346,
+    "name": "Jeewan Hospital & Nursing Home",
+    "phone": "0014 2634",
+    "lat": 28.6349,
+    "lon": 77.21
+  },
+  {
+    "id": 347,
+    "name": "Jeewan Hospital and Nursing Home",
+    "phone": "0014 2634",
+    "lat": 28.6359,
+    "lon": 77.211
+  },
+  {
+    "id": 348,
+    "name": "Jeewan Jyoti Clinic & Nursing Home",
+    "phone": "0018 2559",
+    "lat": 28.66,
+    "lon": 77.075
+  },
+  {
+    "id": 349,
+    "name": "Jeewan Jyoti Hospital",
+    "phone": "0020 2637",
+    "lat": 28.5841,
+    "lon": 77.2767
+  },
+  {
+    "id": 350,
+    "name": "Jeewan Jyoti Hospital",
+    "phone": "0059 2533",
+    "lat": 28.5889,
+    "lon": 77.214
+  },
+  {
+    "id": 351,
+    "name": "Jeewan Mala Hospital (P) Ltd",
+    "phone": "0005 2351",
+    "lat": 28.5899,
+    "lon": 77.215
+  },
+  {
+    "id": 352,
+    "name": "8 NW",
+    "phone": "0059 2563",
+    "lat": 28.497,
+    "lon": 77.147
+  },
+  {
+    "id": 353,
+    "name": "Jhamb Maternity & Medical Centre",
+    "phone": "0052 2747",
+    "lat": 28.5919,
+    "lon": 77.217
+  },
+  {
+    "id": 354,
+    "name": "Jivodaya Hospital Ashok Vihar Ashok Vihar",
+    "phone": "0052 2725",
+    "lat": 28.5929,
+    "lon": 77.218
+  },
+  {
+    "id": 355,
+    "name": "Jiwan Charitable Hospital",
+    "phone": "0083 2791",
+    "lat": 28.5939,
+    "lon": 77.219
+  },
+  {
+    "id": 356,
+    "name": "Jiwan Dna Hospital Q-62, Prem Nagar- II, Kirari Suleman",
+    "phone": "0086 2547",
+    "lat": 28.5949,
+    "lon": 77.22
+  },
+  {
+    "id": 357,
+    "name": "Joy Nursing Home J-5/49F, Rajouri Garden",
+    "phone": "0027 2544",
+    "lat": 28.5959,
+    "lon": 77.221
+  },
+  {
+    "id": 358,
+    "name": "JSR Medical Centre 6444, Palam Vihar, Bijwasan Road",
+    "phone": "0061 1043",
+    "lat": 28.5969,
+    "lon": 77.222
+  },
+  {
+    "id": 359,
+    "name": "Jyoti Clinic & Maternity Home",
+    "phone": "0093 2220",
+    "lat": 28.5979,
+    "lon": 77.223
+  },
+  {
+    "id": 360,
+    "name": "Jyoti Nursing Home C-234, Vikas Puri Vikas Puri Delhi 110018 25556464 , 25520390",
+    "phone": "0018 2555",
+    "lat": 28.5989,
+    "lon": 77.194
+  },
+  {
+    "id": 361,
+    "name": "K.K.Surgical & Maternity Centre",
+    "phone": "+91-11-23340000",
+    "lat": 28.5999,
+    "lon": 77.195
+  },
+  {
+    "id": 362,
+    "name": "K.R. Gangwal Memorial Hospital",
+    "phone": "0040 2778",
+    "lat": 28.84,
+    "lon": 77.079
+  },
+  {
+    "id": 363,
+    "name": "K.R.Hospital D-19/512-520, C hatterpul Hill",
+    "phone": "+91-11-23340000",
+    "lat": 28.6019,
+    "lon": 77.197
+  },
+  {
+    "id": 364,
+    "name": "K.S.Medicare A-1, Sanjay Nagar, GTK Road",
+    "phone": "0033 6411",
+    "lat": 28.6029,
+    "lon": 77.198
+  },
+  {
+    "id": 365,
+    "name": "Kailas Surgicare Centre",
+    "phone": "0093 2281",
+    "lat": 28.6039,
+    "lon": 77.199
+  },
+  {
+    "id": 366,
+    "name": "6 C",
+    "phone": "0005 4306",
+    "lat": 28.511,
+    "lon": 77.131
+  },
+  {
+    "id": 367,
+    "name": "Kailash Nursing Home",
+    "phone": "0008 2584",
+    "lat": 28.6059,
+    "lon": 77.201
+  },
+  {
+    "id": 368,
+    "name": "15 E",
+    "phone": "0052 2748",
+    "lat": 28.602,
+    "lon": 76.978
+  },
+  {
+    "id": 369,
+    "name": "Kalawati Kasturba Hospital pvt. Ltd.",
+    "phone": "0087 2525",
+    "lat": 28.6079,
+    "lon": 77.203
+  },
+  {
+    "id": 370,
+    "name": "Kalra Hospital (P) Ltd.",
+    "phone": "0015 2541",
+    "lat": 28.6089,
+    "lon": 77.204
+  },
+  {
+    "id": 371,
+    "name": "Kalyan Hospital C-22, Dilshad Colony",
+    "phone": "0095 2235",
+    "lat": 28.669,
+    "lon": 77.283
+  },
+  {
+    "id": 372,
+    "name": "Kalyani Hospital RZ-30 A, Rati Ram Park, Naya bazar",
+    "phone": "0043 6499",
+    "lat": 28.606,
+    "lon": 76.982
+  },
+  {
+    "id": 373,
+    "name": "Kamaal Nursing Home & Hospital",
+    "phone": "0053 2219",
+    "lat": 28.6119,
+    "lon": 77.207
+  },
+  {
+    "id": 374,
+    "name": "Kamlesh Medical Centre",
+    "phone": "0087 2526",
+    "lat": 28.6129,
+    "lon": 77.208
+  },
+  {
+    "id": 375,
+    "name": "Kansal Nursing Home",
+    "phone": "0059 2533",
+    "lat": 28.6139,
+    "lon": 77.209
+  },
+  {
+    "id": 376,
+    "name": "Kanta Sethi Hospital",
+    "phone": "0086 2752",
+    "lat": 28.7073,
+    "lon": 77.1131
+  },
+  {
+    "id": 377,
+    "name": "Kantoor Maternity & Medical Centre",
+    "phone": "0087 5578",
+    "lat": 28.6159,
+    "lon": 77.211
+  },
+  {
+    "id": 378,
+    "name": "6 NW",
+    "phone": "0056 4552",
+    "lat": 28.523,
+    "lon": 77.143
+  },
+  {
+    "id": 379,
+    "name": "Kapoor Medical Centre",
+    "phone": "0028 2579",
+    "lat": 28.6179,
+    "lon": 77.213
+  },
+  {
+    "id": 380,
+    "name": "Kartik Nursing Home & Urology",
+    "phone": "0058 2553",
+    "lat": 28.626,
+    "lon": 77.09
+  },
+  {
+    "id": 381,
+    "name": "Karuna Hospital D-62, Dilshad Colony",
+    "phone": "0095 2235",
+    "lat": 28.6199,
+    "lon": 77.215
+  },
+  {
+    "id": 382,
+    "name": "Karuna Sindhu Charitable Hospital.",
+    "phone": "0041 2834",
+    "lat": 28.616,
+    "lon": 76.992
+  },
+  {
+    "id": 383,
+    "name": "Kathuria Nursing Home",
+    "phone": "0027 2545",
+    "lat": 28.6219,
+    "lon": 77.217
+  },
+  {
+    "id": 384,
+    "name": "Kaushik Ortho C-2/94, Janak Puri Janak Puri New Delhi",
+    "phone": "0058 2555",
+    "lat": 28.6229,
+    "lon": 77.218
+  },
+  {
+    "id": 385,
+    "name": "Kaya Kalp Hospital 12, Part-II, Jharoda Mazra",
+    "phone": "0084 2761",
+    "lat": 28.6239,
+    "lon": 77.219
+  },
+  {
+    "id": 386,
+    "name": "Kesar Hospital AH-11, Shalimar Bagh",
+    "phone": "0052 2747",
+    "lat": 28.6249,
+    "lon": 77.22
+  },
+  {
+    "id": 387,
+    "name": "Kesar Nursing Home",
+    "phone": "0046 2538",
+    "lat": 28.6259,
+    "lon": 77.221
+  },
+  {
+    "id": 388,
+    "name": "18 NE",
+    "phone": "0018 2555",
+    "lat": 28.622,
+    "lon": 76.998
+  },
+  {
+    "id": 389,
+    "name": "Khandelwal Clinic N-15, G.F., Kalkaji Kalkaji Delhi 110019 41601848 904 2 S",
+    "phone": "0019 4160",
+    "lat": 28.6279,
+    "lon": 77.223
+  },
+  {
+    "id": 390,
+    "name": "Khandelwal Hospital",
+    "phone": "0092 2209",
+    "lat": 28.6289,
+    "lon": 77.194
+  },
+  {
+    "id": 391,
+    "name": "Khanna Eye Centre E-368, Nirman Vihar, Vikas Marg,",
+    "phone": "0092 2242",
+    "lat": 28.648,
+    "lon": 77.266
+  },
+  {
+    "id": 392,
+    "name": "30 S",
+    "phone": "0041 6527",
+    "lat": 28.537,
+    "lon": 77.127
+  },
+  {
+    "id": 393,
+    "name": "Khanna Hospital C-2/396, Janakpuri",
+    "phone": "0058 2550",
+    "lat": 28.639,
+    "lon": 77.073
+  },
+  {
+    "id": 394,
+    "name": "Khanna Nursing Home",
+    "phone": "0008 2769",
+    "lat": 28.6329,
+    "lon": 77.198
+  },
+  {
+    "id": 395,
+    "name": "Khanna Nursing Home",
+    "phone": "0058 2555",
+    "lat": 28.641,
+    "lon": 77.075
+  },
+  {
+    "id": 396,
+    "name": "Khetarpal Nursing Home",
+    "phone": "0027 2516",
+    "lat": 28.6349,
+    "lon": 77.2
+  },
+  {
+    "id": 397,
+    "name": "Khetrapal Hospital F-95, Bali Nagar Bali Nagar",
+    "phone": "0015 2592",
+    "lat": 28.6359,
+    "lon": 77.201
+  },
+  {
+    "id": 398,
+    "name": "Kiran Eye care centre",
+    "phone": "0009 1001",
+    "lat": 28.6369,
+    "lon": 77.202
+  },
+  {
+    "id": 399,
+    "name": "Kiran Eye Centre C-211, Jhilmil Colony",
+    "phone": "0095 1155",
+    "lat": 28.6379,
+    "lon": 77.203
+  },
+  {
+    "id": 400,
+    "name": "KJIVF & Laparoscopic Centre",
+    "phone": "0051 5525",
+    "lat": 28.5889,
+    "lon": 77.204
+  },
+  {
+    "id": 401,
+    "name": "Kohli Nursing Home & Mat.",
+    "phone": "0085 2794",
+    "lat": 28.6823,
+    "lon": 77.1081
+  },
+  {
+    "id": 402,
+    "name": "Kolmet Hospital 7-B, Pusa Road Pusa Road Delhi 110005 257520561 167 39 C",
+    "phone": "0005 2575",
+    "lat": 28.5909,
+    "lon": 77.206
+  },
+  {
+    "id": 403,
+    "name": "Krishna Hospital J-21, Main Road, Kartar Nagar",
+    "phone": "0053 2294",
+    "lat": 28.5919,
+    "lon": 77.207
+  },
+  {
+    "id": 404,
+    "name": "Krishna Hospital 9, Chanderlok Enclave,Pitampur",
+    "phone": "0034 2718",
+    "lat": 28.5929,
+    "lon": 77.208
+  },
+  {
+    "id": 405,
+    "name": "Krishna Surgical & Maternity Home",
+    "phone": "0041 2547",
+    "lat": 28.589,
+    "lon": 76.985
+  },
+  {
+    "id": 406,
+    "name": "Kuber Hospital 12, Chanderlok Enclave,Pitam",
+    "phone": "0034 2718",
+    "lat": 28.5949,
+    "lon": 77.21
+  },
+  {
+    "id": 407,
+    "name": "Kukreja Hospital & Heart Centre",
+    "phone": "5416681",
+    "lat": 28.5959,
+    "lon": 77.211
+  },
+  {
+    "id": 408,
+    "name": "Kukreja Nursing Home",
+    "phone": "0091 2249",
+    "lat": 28.5969,
+    "lon": 77.212
+  },
+  {
+    "id": 409,
+    "name": "Kumar Medical & Mat. Centre",
+    "phone": "0052 2747",
+    "lat": 28.5979,
+    "lon": 77.213
+  },
+  {
+    "id": 410,
+    "name": "Kunj Eye Hospital C-270, Sangam Vihar",
+    "phone": "0062 2496",
+    "lat": 28.5989,
+    "lon": 77.214
+  },
+  {
+    "id": 411,
+    "name": "Kusum Surgical and pediatric Hospital",
+    "phone": "0094 2281",
+    "lat": 28.5999,
+    "lon": 77.215
+  },
+  {
+    "id": 412,
+    "name": "Lake View Nursing Home P. ltd.",
+    "phone": "0091 2279",
+    "lat": 28.6009,
+    "lon": 77.216
+  },
+  {
+    "id": 413,
+    "name": "Lakhotia Eye Centre & Laser",
+    "phone": "0048 2922",
+    "lat": 28.6019,
+    "lon": 77.217
+  },
+  {
+    "id": 414,
+    "name": "15 N",
+    "phone": "0059 3204",
+    "lat": 28.509,
+    "lon": 77.149
+  },
+  {
+    "id": 415,
+    "name": "Leekha Nursing Home",
+    "phone": "0016 2656",
+    "lat": 28.6039,
+    "lon": 77.219
+  },
+  {
+    "id": 416,
+    "name": "Life Care Hospital New Roshan, Najafgarh",
+    "phone": "0043 1102",
+    "lat": 28.6,
+    "lon": 76.996
+  },
+  {
+    "id": 417,
+    "name": "Life Line Charitable Hospital",
+    "phone": "+91-11-23340000",
+    "lat": 28.6059,
+    "lon": 77.221
+  },
+  {
+    "id": 418,
+    "name": "Life Line Hospital A-13, Priyadarshani",
+    "phone": "0092 2252",
+    "lat": 28.6069,
+    "lon": 77.222
+  },
+  {
+    "id": 419,
+    "name": "Life Line Medical Centre",
+    "phone": "0027 4740",
+    "lat": 28.6079,
+    "lon": 77.223
+  },
+  {
+    "id": 420,
+    "name": "Lifeline Hospital Plot no. 42, Sector- 12 B, Dwarka",
+    "phone": "0075 2508",
+    "lat": 28.5773,
+    "lon": 77.0471
+  },
+  {
+    "id": 421,
+    "name": "16 W",
+    "phone": "0095 2235",
+    "lat": 28.605,
+    "lon": 76.971
+  },
+  {
+    "id": 422,
+    "name": "Livana IVF Centre PVT.LTD",
+    "phone": "0005 2351",
+    "lat": 28.6109,
+    "lon": 77.196
+  },
+  {
+    "id": 423,
+    "name": "Behra Enclave,Paschim",
+    "phone": "0087 2526",
+    "lat": 28.607,
+    "lon": 76.973
+  },
+  {
+    "id": 424,
+    "name": "Lokpriya Nursing Home",
+    "phone": "0095 2215",
+    "lat": 28.6129,
+    "lon": 77.198
+  },
+  {
+    "id": 425,
+    "name": "15 NW",
+    "phone": "0058 2561",
+    "lat": 28.52,
+    "lon": 77.13
+  },
+  {
+    "id": 426,
+    "name": "Lotus Hospital D.R Tyagi Complex, Sant",
+    "phone": "0084 6455",
+    "lat": 28.6149,
+    "lon": 77.2
+  },
+  {
+    "id": 427,
+    "name": "11 E",
+    "phone": "0002 2327",
+    "lat": 28.522,
+    "lon": 77.132
+  },
+  {
+    "id": 428,
+    "name": "Luv Kush Hospital for Surgery",
+    "phone": "0094 2217",
+    "lat": 28.6169,
+    "lon": 77.202
+  },
+  {
+    "id": 429,
+    "name": "33 W",
+    "phone": "0087 2526",
+    "lat": 28.524,
+    "lon": 77.134
+  },
+  {
+    "id": 430,
+    "name": "M P Heart Centre W-33, Greater Kailash",
+    "phone": "0048 2923",
+    "lat": 28.6189,
+    "lon": 77.204
+  },
+  {
+    "id": 431,
+    "name": "M.D.Eye Care & Laser Care",
+    "phone": "0041 2933",
+    "lat": 28.6199,
+    "lon": 77.205
+  },
+  {
+    "id": 432,
+    "name": "A, Jagriti Enclave",
+    "phone": "0092 2241",
+    "lat": 28.527,
+    "lon": 77.137
+  },
+  {
+    "id": 433,
+    "name": "Madina Charitable Hospital",
+    "phone": "0094 1206",
+    "lat": 28.6219,
+    "lon": 77.207
+  },
+  {
+    "id": 434,
+    "name": "Magadh Nursing Home",
+    "phone": "0059 2563",
+    "lat": 28.6229,
+    "lon": 77.208
+  },
+  {
+    "id": 435,
+    "name": "Mahajan Children Hospital & Nursing",
+    "phone": "0059 2563",
+    "lat": 28.6239,
+    "lon": 77.209
+  },
+  {
+    "id": 436,
+    "name": "Mahajan Eye Centre AD-21 A, Pitampura",
+    "phone": "0034 2731",
+    "lat": 28.71,
+    "lon": 77.132
+  },
+  {
+    "id": 437,
+    "name": "Mahajan Hospital A-5,Swarn Singh Road,Adarsh",
+    "phone": "0033 2767",
+    "lat": 28.6259,
+    "lon": 77.211
+  },
+  {
+    "id": 438,
+    "name": "Mahalaxmi Hospital 1449, P-8, 100ft Road, MTNL,Opp",
+    "phone": "0093 2229",
+    "lat": 28.6269,
+    "lon": 77.212
+  },
+  {
+    "id": 439,
+    "name": "7 W",
+    "phone": "0095 2229",
+    "lat": 28.623,
+    "lon": 76.989
+  },
+  {
+    "id": 440,
+    "name": "Maharaja Agarsain Hospital",
+    "phone": "0052 2742",
+    "lat": 28.6289,
+    "lon": 77.214
+  },
+  {
+    "id": 441,
+    "name": "10 NW",
+    "phone": "0005 2575",
+    "lat": 28.536,
+    "lon": 77.146
+  },
+  {
+    "id": 442,
+    "name": "Mahendru Hospital E-1 Kiran Garden,Uttam",
+    "phone": "0059 2533",
+    "lat": 28.6309,
+    "lon": 77.216
+  },
+  {
+    "id": 443,
+    "name": "Mahesh Hospital D-437, Patparganj Society Complex",
+    "phone": "0092 2243",
+    "lat": 28.6319,
+    "lon": 77.217
+  },
+  {
+    "id": 444,
+    "name": "Mai Kamli Wali Charitable Hosp.",
+    "phone": "0027 2543",
+    "lat": 28.6329,
+    "lon": 77.218
+  },
+  {
+    "id": 445,
+    "name": "Makkah Eye Hospital",
+    "phone": "0025 1120",
+    "lat": 28.5801,
+    "lon": 77.2827
+  },
+  {
+    "id": 446,
+    "name": "Makkar Medical Centre",
+    "phone": "0092 2244",
+    "lat": 28.6349,
+    "lon": 77.22
+  },
+  {
+    "id": 447,
+    "name": "Malhotra Nursing Home(Surgical",
+    "phone": "0091 2277",
+    "lat": 28.63,
+    "lon": 77.307
+  },
+  {
+    "id": 448,
+    "name": "Malik Hospital 6 Avtar Envlave,Paschim",
+    "phone": "0063 3091",
+    "lat": 28.6369,
+    "lon": 77.222
+  },
+  {
+    "id": 449,
+    "name": "Malik Maternity Home & Surgical",
+    "phone": "0043 2801",
+    "lat": 28.633,
+    "lon": 76.999
+  },
+  {
+    "id": 450,
+    "name": "Malik Nursing Home",
+    "phone": "0091 2261",
+    "lat": 28.5889,
+    "lon": 77.194
+  },
+  {
+    "id": 451,
+    "name": "Malik Radix Health Care",
+    "phone": "0092 2201",
+    "lat": 28.5899,
+    "lon": 77.195
+  },
+  {
+    "id": 452,
+    "name": "Mamta Medicare Centre",
+    "phone": "0053 2291",
+    "lat": 28.5909,
+    "lon": 77.196
+  },
+  {
+    "id": 453,
+    "name": "Mamta Nursing Home",
+    "phone": "0053 1109",
+    "lat": 28.5919,
+    "lon": 77.197
+  },
+  {
+    "id": 454,
+    "name": "Manasvi Maternity Centre",
+    "phone": "0085 2789",
+    "lat": 28.6853,
+    "lon": 77.1011
+  },
+  {
+    "id": 455,
+    "name": "Manav Medicare Centre",
+    "phone": "0049 2246",
+    "lat": 28.5939,
+    "lon": 77.199
+  },
+  {
+    "id": 456,
+    "name": "6 W",
+    "phone": "0034 2701",
+    "lat": 28.501,
+    "lon": 77.131
+  },
+  {
+    "id": 457,
+    "name": "Mangla Agarwal Medical Centre Pvt.",
+    "phone": "0018 2599",
+    "lat": 28.5959,
+    "lon": 77.201
+  },
+  {
+    "id": 458,
+    "name": "Mangla Nursing Home",
+    "phone": "53 110053",
+    "lat": 28.5969,
+    "lon": 77.202
+  },
+  {
+    "id": 459,
+    "name": "manglam Hospital B-41,42, West Vinod Nagar",
+    "phone": "0091 2279",
+    "lat": 28.5979,
+    "lon": 77.203
+  },
+  {
+    "id": 460,
+    "name": "Manglam Medical & Surgical Centre",
+    "phone": "0039 2776",
+    "lat": 28.5989,
+    "lon": 77.204
+  },
+  {
+    "id": 461,
+    "name": "Manglam Medical Centre",
+    "phone": "0095 1153",
+    "lat": 28.5999,
+    "lon": 77.205
+  },
+  {
+    "id": 462,
+    "name": "Manjula Nursing Home",
+    "phone": "0025 2698",
+    "lat": 28.5471,
+    "lon": 77.2697
+  },
+  {
+    "id": 463,
+    "name": "Manna Clinic & Maternity Home &",
+    "phone": "0034 2702",
+    "lat": 28.6019,
+    "lon": 77.207
+  },
+  {
+    "id": 464,
+    "name": "Mansaram Hospital Pvt. Ltd.",
+    "phone": "+91-11-23340000",
+    "lat": 28.6029,
+    "lon": 77.208
+  },
+  {
+    "id": 465,
+    "name": "Manushree Maternity &",
+    "phone": "0088 2731",
+    "lat": 28.689,
+    "lon": 77.131
+  },
+  {
+    "id": 466,
+    "name": "5 NW",
+    "phone": "0063 4545",
+    "lat": 28.511,
+    "lon": 77.141
+  },
+  {
+    "id": 467,
+    "name": "Mata Angoori Devi Hospital",
+    "phone": "0043 1023",
+    "lat": 28.601,
+    "lon": 76.987
+  },
+  {
+    "id": 468,
+    "name": "3 E",
+    "phone": "0094 1207",
+    "lat": 28.513,
+    "lon": 77.143
+  },
+  {
+    "id": 469,
+    "name": "Mata Chandana Devi Hospital",
+    "phone": "0059 3209",
+    "lat": 28.6079,
+    "lon": 77.213
+  },
+  {
+    "id": 470,
+    "name": "Mata Roop Rani Maggo & Mahindru",
+    "phone": "0059 2537",
+    "lat": 28.616,
+    "lon": 77.061
+  },
+  {
+    "id": 471,
+    "name": "Mattoo Eye Care Centre",
+    "phone": "0058 1147",
+    "lat": 28.6099,
+    "lon": 77.215
+  },
+  {
+    "id": 472,
+    "name": "Mavi Hospital B-2/11, Nehru Vihar,Karwal",
+    "phone": "0094 3094",
+    "lat": 28.6109,
+    "lon": 77.216
+  },
+  {
+    "id": 473,
+    "name": "Max Balaji Hospital ( A unit of Balaji",
+    "phone": "0092 4303",
+    "lat": 28.6119,
+    "lon": 77.217
+  },
+  {
+    "id": 474,
+    "name": "Max Devki Devi Foundation",
+    "phone": "0017 2651",
+    "lat": 28.6129,
+    "lon": 77.218
+  },
+  {
+    "id": 475,
+    "name": "Max Hospital A-2,3&4, Netaji Subash Place,",
+    "phone": "0034 2715",
+    "lat": 28.6139,
+    "lon": 77.219
+  },
+  {
+    "id": 476,
+    "name": "Max Life Care Hospital",
+    "phone": "0075 4571",
+    "lat": 28.5833,
+    "lon": 77.0731
+  },
+  {
+    "id": 477,
+    "name": "Max Medcentre ( Max Health care",
+    "phone": "0017 2649",
+    "lat": 28.6159,
+    "lon": 77.221
+  },
+  {
+    "id": 478,
+    "name": "Max Super Specialty Hospital",
+    "phone": "0017 6611",
+    "lat": 28.6169,
+    "lon": 77.222
+  },
+  {
+    "id": 479,
+    "name": "6 W",
+    "phone": "0018 2812",
+    "lat": 28.524,
+    "lon": 77.154
+  },
+  {
+    "id": 480,
+    "name": "Maxcure Medical Centre",
+    "phone": "0042 2781",
+    "lat": 28.6189,
+    "lon": 77.194
+  },
+  {
+    "id": 481,
+    "name": "Maxfort Hospital F-3/A, Kalindi Kunj Road, Abul",
+    "phone": "0025 2994",
+    "lat": 28.6199,
+    "lon": 77.195
+  },
+  {
+    "id": 482,
+    "name": "45 S",
+    "phone": "0062 2605",
+    "lat": 28.527,
+    "lon": 77.127
+  },
+  {
+    "id": 483,
+    "name": "Mayur Medical Centre",
+    "phone": "0096 2270",
+    "lat": 28.6219,
+    "lon": 77.197
+  },
+  {
+    "id": 484,
+    "name": "Med First ENT Centre",
+    "phone": "0057 2614",
+    "lat": 28.6229,
+    "lon": 77.198
+  },
+  {
+    "id": 485,
+    "name": "Med. Research Centre & Hosp. of",
+    "phone": "6983747",
+    "lat": 28.6239,
+    "lon": 77.199
+  },
+  {
+    "id": 486,
+    "name": "Medha Hospital KP-12, Pitampura Pitampur a",
+    "phone": "0034 2732",
+    "lat": 28.71,
+    "lon": 77.122
+  },
+  {
+    "id": 487,
+    "name": "Mehar Nursing Home",
+    "phone": "1100 1093",
+    "lat": 28.6259,
+    "lon": 77.201
+  },
+  {
+    "id": 488,
+    "name": "Mehra Medical & Maternity Centre",
+    "phone": "0018 5544",
+    "lat": 28.6269,
+    "lon": 77.202
+  },
+  {
+    "id": 489,
+    "name": "15 SW",
+    "phone": "0027 2591",
+    "lat": 28.534,
+    "lon": 77.134
+  },
+  {
+    "id": 490,
+    "name": "Metro Care Hospital C-4, Maharani Enclave, Hastsal",
+    "phone": "+91-11-23340000",
+    "lat": 28.6289,
+    "lon": 77.204
+  },
+  {
+    "id": 491,
+    "name": "4 S",
+    "phone": "0043 1102",
+    "lat": 28.625,
+    "lon": 76.981
+  },
+  {
+    "id": 492,
+    "name": "Metro Hospital & Heart Institute",
+    "phone": "0024 2644",
+    "lat": 28.5855,
+    "lon": 77.2338
+  },
+  {
+    "id": 493,
+    "name": "Metro Life Line Hospital",
+    "phone": "0043 6578",
+    "lat": 28.627,
+    "lon": 76.983
+  },
+  {
+    "id": 494,
+    "name": "Metro Life Line Hospital",
+    "phone": "0043 8010",
+    "lat": 28.6329,
+    "lon": 77.208
+  },
+  {
+    "id": 495,
+    "name": "Mir Charity Hospital",
+    "phone": "0044 2090",
+    "lat": 28.6339,
+    "lon": 77.209
+  },
+  {
+    "id": 496,
+    "name": "Mittal Eye Care & Retina Centre",
+    "phone": "0015 2593",
+    "lat": 28.6349,
+    "lon": 77.21
+  },
+  {
+    "id": 497,
+    "name": "Mittal Nursing Home",
+    "phone": "0035 3094",
+    "lat": 28.704,
+    "lon": 77.164
+  },
+  {
+    "id": 498,
+    "name": "10 NW",
+    "phone": "0088 2747",
+    "lat": 28.543,
+    "lon": 77.143
+  },
+  {
+    "id": 499,
+    "name": "Model Eye & General Hospital",
+    "phone": "+91-11-23340000",
+    "lat": 28.6379,
+    "lon": 77.213
+  },
+  {
+    "id": 500,
+    "name": "Modi Nursing Home",
+    "phone": "0009 2765",
+    "lat": 28.5889,
+    "lon": 77.214
+  },
+  {
+    "id": 501,
+    "name": "Mohan Eye Institute Sir Ganga Ram Marg,Rajender",
+    "phone": "0005 2578",
+    "lat": 28.5899,
+    "lon": 77.215
+  },
+  {
+    "id": 502,
+    "name": "Mohan Nursing Home",
+    "phone": "0053 2291",
+    "lat": 28.5909,
+    "lon": 77.216
+  },
+  {
+    "id": 503,
+    "name": "9 NW",
+    "phone": "0093 2229",
+    "lat": 28.587,
+    "lon": 76.993
+  },
+  {
+    "id": 504,
+    "name": "Mohinder Hospital C-5, Green Park Ext.",
+    "phone": "0016 4602",
+    "lat": 28.537,
+    "lon": 77.215
+  },
+  {
+    "id": 505,
+    "name": "Mom 4 Sure B-38, Ist Floor, Shivalik",
+    "phone": "0017 1154",
+    "lat": 28.5939,
+    "lon": 77.219
+  },
+  {
+    "id": 506,
+    "name": "Monga Medical Centre",
+    "phone": "0051 2254",
+    "lat": 28.5949,
+    "lon": 77.22
+  },
+  {
+    "id": 507,
+    "name": "Mool Chand Khairati Ram",
+    "phone": "0024 4200",
+    "lat": 28.5959,
+    "lon": 77.221
+  },
+  {
+    "id": 508,
+    "name": "Mother and Child Hospital",
+    "phone": "0024 2463",
+    "lat": 28.5969,
+    "lon": 77.222
+  },
+  {
+    "id": 509,
+    "name": "Mudit Vishwa karma Hospital",
+    "phone": "0059 6524",
+    "lat": 28.605,
+    "lon": 77.099
+  },
+  {
+    "id": 510,
+    "name": "Mukherji Eye Clinic 40/90, C.R.Park Chittrenja n Park",
+    "phone": "0019 2647",
+    "lat": 28.5989,
+    "lon": 77.194
+  },
+  {
+    "id": 511,
+    "name": "7 C",
+    "phone": "0058 4525",
+    "lat": 28.506,
+    "lon": 77.126
+  },
+  {
+    "id": 512,
+    "name": "51 W",
+    "phone": "0033 2763",
+    "lat": 28.507,
+    "lon": 77.127
+  },
+  {
+    "id": 513,
+    "name": "N.V.S. Badarpur Nursing Home",
+    "phone": "0044 2694",
+    "lat": 28.6019,
+    "lon": 77.197
+  },
+  {
+    "id": 514,
+    "name": "Naman General & Maternity Centre",
+    "phone": "0040 2453",
+    "lat": 28.842,
+    "lon": 77.081
+  },
+  {
+    "id": 515,
+    "name": "3 C",
+    "phone": "2285254",
+    "lat": 28.51,
+    "lon": 77.13
+  },
+  {
+    "id": 516,
+    "name": "Narang Eye Hospital",
+    "phone": "0009 2714",
+    "lat": 28.6049,
+    "lon": 77.2
+  },
+  {
+    "id": 517,
+    "name": "Narang Eye Institute",
+    "phone": "0034 2613",
+    "lat": 28.6059,
+    "lon": 77.201
+  },
+  {
+    "id": 518,
+    "name": "Narang Gynae & ENT Centre",
+    "phone": "0058 2554",
+    "lat": 28.6069,
+    "lon": 77.202
+  },
+  {
+    "id": 519,
+    "name": "Narang Hospital & Maternity Centre",
+    "phone": "0041 2596",
+    "lat": 28.6079,
+    "lon": 77.203
+  },
+  {
+    "id": 520,
+    "name": "Narayani Hospital 830/K, Habatpura, Som",
+    "phone": "0043 6504",
+    "lat": 28.604,
+    "lon": 76.98
+  },
+  {
+    "id": 521,
+    "name": "15 NW",
+    "phone": "0058 2555",
+    "lat": 28.516,
+    "lon": 77.136
+  },
+  {
+    "id": 522,
+    "name": "Narula Hospital C-3/65/A, Yamuna Vihar",
+    "phone": "0053 2291",
+    "lat": 28.6109,
+    "lon": 77.206
+  },
+  {
+    "id": 523,
+    "name": "Narula Medical Centre",
+    "phone": "0092 2201",
+    "lat": 28.6119,
+    "lon": 77.207
+  },
+  {
+    "id": 524,
+    "name": "Nath Eye Institute 10/5 IGF, East Patel Nagar",
+    "phone": "0008 1064",
+    "lat": 28.647,
+    "lon": 77.166
+  },
+  {
+    "id": 525,
+    "name": "National Chest Inst. & Research Centre",
+    "phone": "0049 2696",
+    "lat": 28.6139,
+    "lon": 77.209
+  },
+  {
+    "id": 526,
+    "name": "National Heart Institute",
+    "phone": "6414156",
+    "lat": 28.6149,
+    "lon": 77.21
+  },
+  {
+    "id": 527,
+    "name": "National Hospital D-175, Main Ratia Marg",
+    "phone": "+91-11-23340000",
+    "lat": 28.6159,
+    "lon": 77.211
+  },
+  {
+    "id": 528,
+    "name": "Naushad Medical centre",
+    "phone": "0094 2217",
+    "lat": 28.6169,
+    "lon": 77.212
+  },
+  {
+    "id": 529,
+    "name": "Nav Dristi Eye Centre",
+    "phone": "0053 2291",
+    "lat": 28.6179,
+    "lon": 77.213
+  },
+  {
+    "id": 530,
+    "name": "Nav Jeevan Medical Centre",
+    "phone": "0059 6573",
+    "lat": 28.6189,
+    "lon": 77.214
+  },
+  {
+    "id": 531,
+    "name": "Navjeevan Hospital A-12, Pushpanjali Enclave, Outer",
+    "phone": "0088 2701",
+    "lat": 28.705,
+    "lon": 77.137
+  },
+  {
+    "id": 532,
+    "name": "Navjeevan Hospital J-1, Reserve Bank Colony, Paschim",
+    "phone": "0063 2528",
+    "lat": 28.6209,
+    "lon": 77.216
+  },
+  {
+    "id": 533,
+    "name": "Navjeevan Medical Centre",
+    "phone": "0035 2738",
+    "lat": 28.69,
+    "lon": 77.17
+  },
+  {
+    "id": 534,
+    "name": "Navjoyti Eye Centre 90,Darya Ganj Darya Ganj",
+    "phone": "0002 2327",
+    "lat": 28.6229,
+    "lon": 77.218
+  },
+  {
+    "id": 535,
+    "name": "Nayantara Eye Centre",
+    "phone": "0035 2365",
+    "lat": 28.6239,
+    "lon": 77.219
+  },
+  {
+    "id": 536,
+    "name": "93 NW",
+    "phone": "0075 4571",
+    "lat": 28.62,
+    "lon": 76.996
+  },
+  {
+    "id": 537,
+    "name": "Nazar Kanwar Surana Hospital",
+    "phone": "0007 3057",
+    "lat": 28.6259,
+    "lon": 77.221
+  },
+  {
+    "id": 538,
+    "name": "8 W",
+    "phone": "0092 2760",
+    "lat": 28.533,
+    "lon": 77.153
+  },
+  {
+    "id": 539,
+    "name": "4 W",
+    "phone": "0015 2543",
+    "lat": 28.534,
+    "lon": 77.154
+  },
+  {
+    "id": 540,
+    "name": "Neeru Maternity Centre",
+    "phone": "0041 6557",
+    "lat": 28.6289,
+    "lon": 77.194
+  },
+  {
+    "id": 541,
+    "name": "5 W",
+    "phone": "0040 9250",
+    "lat": 28.536,
+    "lon": 77.126
+  },
+  {
+    "id": 542,
+    "name": "Neptune Hospital 1, Navjeevan Vihar, Opp",
+    "phone": "0017 2669",
+    "lat": 28.6309,
+    "lon": 77.196
+  },
+  {
+    "id": 543,
+    "name": "50 S",
+    "phone": "0014 2634",
+    "lat": 28.627,
+    "lon": 76.973
+  },
+  {
+    "id": 544,
+    "name": "New Delhi Centre for Sight",
+    "phone": "0029 4164",
+    "lat": 28.5893,
+    "lon": 77.1959
+  },
+  {
+    "id": 545,
+    "name": "New Heera Hospital",
+    "phone": "0043 6455",
+    "lat": 28.629,
+    "lon": 76.975
+  },
+  {
+    "id": 546,
+    "name": "6 N",
+    "phone": "0002 2325",
+    "lat": 28.541,
+    "lon": 77.131
+  },
+  {
+    "id": 547,
+    "name": "New Manthan Hospital",
+    "phone": "+91-11-23340000",
+    "lat": 28.6359,
+    "lon": 77.201
+  },
+  {
+    "id": 548,
+    "name": "New Medical Centre",
+    "phone": "0015\n2541",
+    "lat": 28.6369,
+    "lon": 77.202
+  },
+  {
+    "id": 549,
+    "name": "New Rohini Hosptial",
+    "phone": "+91-11-23340000",
+    "lat": 28.7303,
+    "lon": 77.1061
+  },
+  {
+    "id": 550,
+    "name": "New Sharma Hospital",
+    "phone": "+91-11-23340000",
+    "lat": 28.5889,
+    "lon": 77.204
+  },
+  {
+    "id": 551,
+    "name": "15 NW",
+    "phone": "0030 2650",
+    "lat": 28.496,
+    "lon": 77.136
+  },
+  {
+    "id": 552,
+    "name": "Nirmal Healthcare Centre",
+    "phone": "0007 1127",
+    "lat": 28.5909,
+    "lon": 77.206
+  },
+  {
+    "id": 553,
+    "name": "Nirmal Hospital C-6/241,241,243, Main Police",
+    "phone": "0041 2547",
+    "lat": 28.5919,
+    "lon": 77.207
+  },
+  {
+    "id": 554,
+    "name": "9 NE",
+    "phone": "0017 2669",
+    "lat": 28.588,
+    "lon": 76.984
+  },
+  {
+    "id": 555,
+    "name": "Nirmay Hospital RZ-23, Indra Park, Pankha Road",
+    "phone": "0059 2564",
+    "lat": 28.5939,
+    "lon": 77.209
+  },
+  {
+    "id": 556,
+    "name": "Nirmla Hospital RZ-E-20, Jai Vihar Colony,",
+    "phone": "0043 6515",
+    "lat": 28.59,
+    "lon": 76.986
+  },
+  {
+    "id": 557,
+    "name": "Nirvana Eye Care 406-407, 4th Floor, Anuska Tower",
+    "phone": "0085 1149",
+    "lat": 28.6883,
+    "lon": 77.1141
+  },
+  {
+    "id": 558,
+    "name": "5 W",
+    "phone": "0086 2752",
+    "lat": 28.592,
+    "lon": 76.988
+  },
+  {
+    "id": 559,
+    "name": "10 NE",
+    "phone": "0064 2549",
+    "lat": 28.593,
+    "lon": 76.989
+  },
+  {
+    "id": 560,
+    "name": "8 NE",
+    "phone": "0045 2505",
+    "lat": 28.505,
+    "lon": 77.145
+  },
+  {
+    "id": 561,
+    "name": "North Point Hospital",
+    "phone": "0017 2601",
+    "lat": 28.5999,
+    "lon": 77.215
+  },
+  {
+    "id": 562,
+    "name": "5 NE",
+    "phone": "0058 2553",
+    "lat": 28.507,
+    "lon": 77.147
+  },
+  {
+    "id": 563,
+    "name": "Nova Medical Centre",
+    "phone": "0005 4777",
+    "lat": 28.6019,
+    "lon": 77.217
+  },
+  {
+    "id": 564,
+    "name": "Nova Medical Centre",
+    "phone": "0048 4046",
+    "lat": 28.6029,
+    "lon": 77.218
+  },
+  {
+    "id": 565,
+    "name": "Nova Medical Centre",
+    "phone": "0019 4777",
+    "lat": 28.6039,
+    "lon": 77.219
+  },
+  {
+    "id": 566,
+    "name": "Nova Pulse IVF Clinic Pvt. Ltd",
+    "phone": "0029 4778",
+    "lat": 28.6049,
+    "lon": 77.22
+  },
+  {
+    "id": 567,
+    "name": "Novel Health Care 87 B, Sai Dham, Nangli Sakrawati,",
+    "phone": "0043 9891",
+    "lat": 28.601,
+    "lon": 76.997
+  },
+  {
+    "id": 568,
+    "name": "Nulife Hospital & Maternity Centre",
+    "phone": "0009 2760",
+    "lat": 28.6069,
+    "lon": 77.222
+  },
+  {
+    "id": 569,
+    "name": "Nu-Tech Mediworld H 8, Green Park Extn.,",
+    "phone": "+91-11-23340000",
+    "lat": 28.552,
+    "lon": 77.22
+  },
+  {
+    "id": 570,
+    "name": "25 NE",
+    "phone": "0026 2522",
+    "lat": 28.604,
+    "lon": 76.97
+  },
+  {
+    "id": 571,
+    "name": "Olmec Health Care JD-3B, Pitampura PitamPur a",
+    "phone": "0088 4502",
+    "lat": 28.695,
+    "lon": 77.117
+  },
+  {
+    "id": 572,
+    "name": "Om Shiv Shakti MannNursing Home",
+    "phone": "0086 1219",
+    "lat": 28.6109,
+    "lon": 77.196
+  },
+  {
+    "id": 573,
+    "name": "Onyx Health Care 90, Pkt.F-25, Sector-7, Rohini",
+    "phone": "0085 2704",
+    "lat": 28.7043,
+    "lon": 77.1001
+  },
+  {
+    "id": 574,
+    "name": "Orchid Hospital C-3/91-92,Janak Puri",
+    "phone": "0058 5157",
+    "lat": 28.6129,
+    "lon": 77.198
+  },
+  {
+    "id": 575,
+    "name": "Ortho Care Hospital Plot no. 5 & 6, Chara Mandi,",
+    "phone": "0043 1162",
+    "lat": 28.609,
+    "lon": 76.975
+  },
+  {
+    "id": 576,
+    "name": "6 W",
+    "phone": "0040 2778",
+    "lat": 28.521,
+    "lon": 77.131
+  },
+  {
+    "id": 577,
+    "name": "Ortho Junction 428, Near, S.B Patiyala, main",
+    "phone": "+91-11-23340000",
+    "lat": 28.6159,
+    "lon": 77.201
+  },
+  {
+    "id": 578,
+    "name": "Orthonova Hospital C-5/29, Safdarjung Dev.",
+    "phone": "0016 4165",
+    "lat": 28.5733,
+    "lon": 77.1999
+  },
+  {
+    "id": 579,
+    "name": "5 NW",
+    "phone": "0085 2794",
+    "lat": 28.524,
+    "lon": 77.134
+  },
+  {
+    "id": 580,
+    "name": "Pal Hospital E-1/117, Rajeev Nagar",
+    "phone": "0086 9210",
+    "lat": 28.6189,
+    "lon": 77.204
+  },
+  {
+    "id": 581,
+    "name": "15 NE",
+    "phone": "0092 4303",
+    "lat": 28.615,
+    "lon": 76.981
+  },
+  {
+    "id": 582,
+    "name": "Panchsheel Nursing Home",
+    "phone": "+91-11-23340000",
+    "lat": 28.6209,
+    "lon": 77.206
+  },
+  {
+    "id": 583,
+    "name": "10 C",
+    "phone": "0041 1216",
+    "lat": 28.528,
+    "lon": 77.138
+  },
+  {
+    "id": 584,
+    "name": "52 NW",
+    "phone": "0030 2664",
+    "lat": 28.529,
+    "lon": 77.139
+  },
+  {
+    "id": 585,
+    "name": "5 N",
+    "phone": "0034 2613",
+    "lat": 28.619,
+    "lon": 76.985
+  },
+  {
+    "id": 586,
+    "name": "Pargati Eye Center H-15, Krishna Nagar",
+    "phone": "0051 2241",
+    "lat": 28.6249,
+    "lon": 77.21
+  },
+  {
+    "id": 587,
+    "name": "3 NW",
+    "phone": "0087 5578",
+    "lat": 28.621,
+    "lon": 76.987
+  },
+  {
+    "id": 588,
+    "name": "12 NW",
+    "phone": "0086 2547",
+    "lat": 28.622,
+    "lon": 76.988
+  },
+  {
+    "id": 589,
+    "name": "Park Hospital 12 & 13, Chowkhandi,",
+    "phone": "0018 2541",
+    "lat": 28.6279,
+    "lon": 77.213
+  },
+  {
+    "id": 590,
+    "name": "Parmarth Mission Nursing Home",
+    "phone": "0007 2724",
+    "lat": 28.6289,
+    "lon": 77.214
+  },
+  {
+    "id": 591,
+    "name": "Parnami Orthopaedic Centre",
+    "phone": "0033 2767",
+    "lat": 28.6299,
+    "lon": 77.215
+  },
+  {
+    "id": 592,
+    "name": "Parshanti Nursing Home",
+    "phone": "0085 2251",
+    "lat": 28.7233,
+    "lon": 77.1191
+  },
+  {
+    "id": 593,
+    "name": "Parth Hospital 84, Sewak Park, Dwarka",
+    "phone": "0059 6517",
+    "lat": 28.6003,
+    "lon": 77.0701
+  },
+  {
+    "id": 594,
+    "name": "Paschimi Hospital B-17, New Multan Nagar, Main Rtk.",
+    "phone": "0036 2529",
+    "lat": 28.6329,
+    "lon": 77.218
+  },
+  {
+    "id": 595,
+    "name": "10 SW",
+    "phone": "0006 2392",
+    "lat": 28.54,
+    "lon": 77.15
+  },
+  {
+    "id": 596,
+    "name": "Patel Hospital Kh. No. 51/4, A- Block, Padhan",
+    "phone": "+91-11-23340000",
+    "lat": 28.6349,
+    "lon": 77.22
+  },
+  {
+    "id": 597,
+    "name": "Patliputra Nursing Home",
+    "phone": "0042 2729",
+    "lat": 28.6359,
+    "lon": 77.221
+  },
+  {
+    "id": 598,
+    "name": "Paul Nursing Home & Child Care Centre",
+    "phone": "0064 2549",
+    "lat": 28.651,
+    "lon": 77.1262
+  },
+  {
+    "id": 599,
+    "name": "Paul’s Nursing Home",
+    "phone": "0063 2526",
+    "lat": 28.6379,
+    "lon": 77.223
+  },
+  {
+    "id": 600,
+    "name": "Pavan Nursing home",
+    "phone": "0092 6584",
+    "lat": 28.607,
+    "lon": 77.265
+  },
+  {
+    "id": 601,
+    "name": "15 W",
+    "phone": "0063 2525",
+    "lat": 28.496,
+    "lon": 77.126
+  },
+  {
+    "id": 602,
+    "name": "Pentamed Hospital 7- Local, Shopping Centre, Derawal",
+    "phone": "0009 2742",
+    "lat": 28.5909,
+    "lon": 77.196
+  },
+  {
+    "id": 603,
+    "name": "12 C",
+    "phone": "0033 3266",
+    "lat": 28.498,
+    "lon": 77.128
+  },
+  {
+    "id": 604,
+    "name": "Poojas Mother & Child Care Centre",
+    "phone": "0018 6543",
+    "lat": 28.5929,
+    "lon": 77.198
+  },
+  {
+    "id": 605,
+    "name": "Popli Hospital & Dental Clinic",
+    "phone": "0059 2550",
+    "lat": 28.5939,
+    "lon": 77.199
+  },
+  {
+    "id": 606,
+    "name": "2 SW",
+    "phone": "0085 2755",
+    "lat": 28.501,
+    "lon": 77.131
+  },
+  {
+    "id": 607,
+    "name": "31 E",
+    "phone": "0053 2291",
+    "lat": 28.591,
+    "lon": 76.977
+  },
+  {
+    "id": 608,
+    "name": "Prem Chikitsa Centre",
+    "phone": "26195636",
+    "lat": 28.5969,
+    "lon": 77.202
+  },
+  {
+    "id": 609,
+    "name": "10 NW",
+    "phone": "0058 2555",
+    "lat": 28.593,
+    "lon": 76.979
+  },
+  {
+    "id": 610,
+    "name": "Pt. Girdhari Lal Memo. Sharma",
+    "phone": "0045 2508",
+    "lat": 28.5989,
+    "lon": 77.204
+  },
+  {
+    "id": 611,
+    "name": "Purang Eye Centre A-114, Vishal Enclave,",
+    "phone": "0027 2544",
+    "lat": 28.5999,
+    "lon": 77.205
+  },
+  {
+    "id": 612,
+    "name": "Pushpanjali Medical Centre",
+    "phone": "0092 2237",
+    "lat": 28.6009,
+    "lon": 77.206
+  },
+  {
+    "id": 613,
+    "name": "8 C",
+    "phone": "0008 2519",
+    "lat": 28.508,
+    "lon": 77.138
+  },
+  {
+    "id": 614,
+    "name": "R .Nayyar Hospital 3, Amar Enclave, Village Nawada,",
+    "phone": "0059 2535",
+    "lat": 28.598,
+    "lon": 76.984
+  },
+  {
+    "id": 615,
+    "name": "R B Seth Jessa Ram Hospital",
+    "phone": "0005 4150",
+    "lat": 28.642,
+    "lon": 77.19
+  },
+  {
+    "id": 616,
+    "name": "R N Khetarpal Memorial Hospital",
+    "phone": "0018 2552",
+    "lat": 28.6049,
+    "lon": 77.21
+  },
+  {
+    "id": 617,
+    "name": "R P Maternity Clinic cum Medical Centre",
+    "phone": "0058 2555",
+    "lat": 28.6059,
+    "lon": 77.211
+  },
+  {
+    "id": 618,
+    "name": "4 N",
+    "phone": "0033 2767",
+    "lat": 28.513,
+    "lon": 77.143
+  },
+  {
+    "id": 619,
+    "name": "R.G.Stone Urology & Laproscopy",
+    "phone": "0092 2222",
+    "lat": 28.6079,
+    "lon": 77.213
+  },
+  {
+    "id": 620,
+    "name": "R.G.Stone Urology & Laproscopy",
+    "phone": "0027 4329",
+    "lat": 28.6089,
+    "lon": 77.214
+  },
+  {
+    "id": 621,
+    "name": "R.G.Stone Urology Research Institute",
+    "phone": "0034 2701",
+    "lat": 28.695,
+    "lon": 77.137
+  },
+  {
+    "id": 622,
+    "name": "18 W",
+    "phone": "0092 4309",
+    "lat": 28.517,
+    "lon": 77.147
+  },
+  {
+    "id": 623,
+    "name": "R.P.Memorial Hospital",
+    "phone": "0041 2548",
+    "lat": 28.607,
+    "lon": 76.993
+  },
+  {
+    "id": 624,
+    "name": "R.R. Hospital Plot No. 220, Jai Vihar, Phase III,",
+    "phone": "0043 1165",
+    "lat": 28.608,
+    "lon": 76.994
+  },
+  {
+    "id": 625,
+    "name": "R.S.Grover Memo. Hospital",
+    "phone": "+91-11-23340000",
+    "lat": 28.6139,
+    "lon": 77.219
+  },
+  {
+    "id": 626,
+    "name": "10 NE",
+    "phone": "0065 2984",
+    "lat": 28.521,
+    "lon": 77.151
+  },
+  {
+    "id": 627,
+    "name": "Rai Nursing Home J-20-21, Shriniwaspuri",
+    "phone": "+91-11-23340000",
+    "lat": 28.6159,
+    "lon": 77.221
+  },
+  {
+    "id": 628,
+    "name": "Raj Kumar Cosmatic & Genral Surgery",
+    "phone": "0063 2521",
+    "lat": 28.6169,
+    "lon": 77.222
+  },
+  {
+    "id": 629,
+    "name": "Raj Medical Center ST-13,Than Singh Nagar",
+    "phone": "0005 2871",
+    "lat": 28.6179,
+    "lon": 77.223
+  },
+  {
+    "id": 630,
+    "name": "Raj Medical Centre C-3/51-A,Yamuna Vihar",
+    "phone": "0053 2291",
+    "lat": 28.6189,
+    "lon": 77.194
+  },
+  {
+    "id": 631,
+    "name": "Raj Nursing Home& Orthopaedic Centre",
+    "phone": "0042 2783",
+    "lat": 28.6199,
+    "lon": 77.195
+  },
+  {
+    "id": 632,
+    "name": "12 NW",
+    "phone": "0033 6411",
+    "lat": 28.616,
+    "lon": 76.972
+  },
+  {
+    "id": 633,
+    "name": "Raja Nursing Home 37 A and B,Pocket - C, Mayur Vihar Ph-",
+    "phone": "0091 2277",
+    "lat": 28.616,
+    "lon": 77.283
+  },
+  {
+    "id": 634,
+    "name": "Raja Ram Mohan Roy Poly Clinic &",
+    "phone": "0033 2767",
+    "lat": 28.6229,
+    "lon": 77.198
+  },
+  {
+    "id": 635,
+    "name": "Rajiv Gandhi Cancer Institute & Research",
+    "phone": "0085 4702",
+    "lat": 28.7163,
+    "lon": 77.1021
+  },
+  {
+    "id": 636,
+    "name": "Ram Chand Memorial Nursing",
+    "phone": "0026 2522",
+    "lat": 28.6249,
+    "lon": 77.2
+  },
+  {
+    "id": 637,
+    "name": "Ram Lal Kundan Lal Orthopaedic & Mat.",
+    "phone": "0092 2251",
+    "lat": 28.6259,
+    "lon": 77.201
+  },
+  {
+    "id": 638,
+    "name": "Rama Hospital 120, Gali No. 3, Block -C,",
+    "phone": "0043 1069",
+    "lat": 28.622,
+    "lon": 76.978
+  },
+  {
+    "id": 639,
+    "name": "Rana Eye Centre c-8/28, Sector-7, Rohini Delhi 110085 1033 2 NW",
+    "phone": "0085 1033",
+    "lat": 28.7203,
+    "lon": 77.1061
+  },
+  {
+    "id": 640,
+    "name": "Rao Raghubir Hosp & Mat. Centre",
+    "phone": "0041 3097",
+    "lat": 28.624,
+    "lon": 76.98
+  },
+  {
+    "id": 641,
+    "name": "15 W",
+    "phone": "0094 2217",
+    "lat": 28.625,
+    "lon": 76.981
+  },
+  {
+    "id": 642,
+    "name": "Rashmi Hospital JP-6, Maurya Enclave,Pitampur",
+    "phone": "0034 2732",
+    "lat": 28.6309,
+    "lon": 77.206
+  },
+  {
+    "id": 643,
+    "name": "Rashmi Medical Centre",
+    "phone": "0034 2718",
+    "lat": 28.6319,
+    "lon": 77.207
+  },
+  {
+    "id": 644,
+    "name": "Ravi Eye Foundation",
+    "phone": "0018 2854",
+    "lat": 28.6329,
+    "lon": 77.208
+  },
+  {
+    "id": 645,
+    "name": "Ravi Nursing Home A-15, Patel Garden,",
+    "phone": "0075 2534",
+    "lat": 28.6023,
+    "lon": 77.0621
+  },
+  {
+    "id": 646,
+    "name": "RBM Eye Institute C-2/1, Prashant Vihar",
+    "phone": "0085 2756",
+    "lat": 28.6349,
+    "lon": 77.21
+  },
+  {
+    "id": 647,
+    "name": "Red Cross Hospital Society Mat.",
+    "phone": "0095 2211",
+    "lat": 28.6359,
+    "lon": 77.211
+  },
+  {
+    "id": 648,
+    "name": "Rehmani Nursing Home",
+    "phone": "0006 2321",
+    "lat": 28.6369,
+    "lon": 77.212
+  },
+  {
+    "id": 649,
+    "name": "Rescue Hospital India Pvt. Ltd.",
+    "phone": "0059 3232",
+    "lat": 28.6379,
+    "lon": 77.213
+  },
+  {
+    "id": 650,
+    "name": "2 W",
+    "phone": "0084 2761",
+    "lat": 28.584,
+    "lon": 76.99
+  },
+  {
+    "id": 651,
+    "name": "5 W",
+    "phone": "0041 2596",
+    "lat": 28.585,
+    "lon": 76.991
+  },
+  {
+    "id": 652,
+    "name": "Rockland Hospital B-33,34 Qutub Institutional Area",
+    "phone": "0016 5168",
+    "lat": 28.5909,
+    "lon": 77.216
+  },
+  {
+    "id": 653,
+    "name": "Rockland Hospital Plot No HAF-B, Phase-I, Sector -12",
+    "phone": "0075 4822",
+    "lat": 28.5603,
+    "lon": 77.0701
+  },
+  {
+    "id": 654,
+    "name": "Roop Chand Hospital",
+    "phone": "0081 2518",
+    "lat": 28.5929,
+    "lon": 77.218
+  },
+  {
+    "id": 655,
+    "name": "Roopali Medical Centre Pvt. Ltd.",
+    "phone": "0053 2291",
+    "lat": 28.5939,
+    "lon": 77.219
+  },
+  {
+    "id": 656,
+    "name": "Roshan Lal Hospital L-1, Naveen Shahadra",
+    "phone": "0032 2232",
+    "lat": 28.5949,
+    "lon": 77.22
+  },
+  {
+    "id": 657,
+    "name": "6 NW",
+    "phone": "0018 2551",
+    "lat": 28.502,
+    "lon": 77.152
+  },
+  {
+    "id": 658,
+    "name": "RS Family Hospital D-76A, Yadav Nagar, Samay Pur",
+    "phone": "0042 6529",
+    "lat": 28.5969,
+    "lon": 77.222
+  },
+  {
+    "id": 659,
+    "name": "19 W",
+    "phone": "0063 2526",
+    "lat": 28.504,
+    "lon": 77.154
+  },
+  {
+    "id": 660,
+    "name": "S.B.Health Care L-48, G.F., Abul Fazal Encalve",
+    "phone": "+91-11-23340000",
+    "lat": 28.5989,
+    "lon": 77.194
+  },
+  {
+    "id": 661,
+    "name": "S.P.Maheshwari Hospital",
+    "phone": "0034 2734",
+    "lat": 28.685,
+    "lon": 77.117
+  },
+  {
+    "id": 662,
+    "name": "Saba Nursing Home A-1/1,2,3, D.D.A., Flates Inderlok",
+    "phone": "0035 2365",
+    "lat": 28.6009,
+    "lon": 77.196
+  },
+  {
+    "id": 663,
+    "name": "Sabharwal Hospital 2911-B Sir Sayad Ahamed Rd,",
+    "phone": "0002 2327",
+    "lat": 28.6019,
+    "lon": 77.197
+  },
+  {
+    "id": 664,
+    "name": "Sabir Nursing Home & Maternity",
+    "phone": "+91-11-23340000",
+    "lat": 28.5491,
+    "lon": 77.2617
+  },
+  {
+    "id": 665,
+    "name": "Sahi Hospital J A, Jangpura, Mathura Road",
+    "phone": "+91-11-23340000",
+    "lat": 28.6039,
+    "lon": 77.199
+  },
+  {
+    "id": 666,
+    "name": "Sai Charitable Dispensary &",
+    "phone": "0093 2258",
+    "lat": 28.6049,
+    "lon": 77.2
+  },
+  {
+    "id": 667,
+    "name": "30 NW",
+    "phone": "0085 2251",
+    "lat": 28.601,
+    "lon": 76.977
+  },
+  {
+    "id": 668,
+    "name": "Sai Dristhi Maternity Centre",
+    "phone": "0085 2729",
+    "lat": 28.6993,
+    "lon": 77.1051
+  },
+  {
+    "id": 669,
+    "name": "Sai Hospital & Maternity Centre",
+    "phone": "0084 2761",
+    "lat": 28.6079,
+    "lon": 77.203
+  },
+  {
+    "id": 670,
+    "name": "Sai Nursing Home 3/18, Janakpuri Janakpuri Delhi 110058 25551818 51 15 W",
+    "phone": "0058 2555",
+    "lat": 28.616,
+    "lon": 77.08
+  },
+  {
+    "id": 671,
+    "name": "Sai Shann Hospital Plot no. 6, Najafgarh Road,",
+    "phone": "0041 1221",
+    "lat": 28.605,
+    "lon": 76.981
+  },
+  {
+    "id": 672,
+    "name": "10 S",
+    "phone": "0020 2546",
+    "lat": 28.517,
+    "lon": 77.137
+  },
+  {
+    "id": 673,
+    "name": "170 W",
+    "phone": "0007 2724",
+    "lat": 28.607,
+    "lon": 76.983
+  },
+  {
+    "id": 674,
+    "name": "Samarpan Mother & Child Hospital",
+    "phone": "0040 3294",
+    "lat": 28.852,
+    "lon": 77.091
+  },
+  {
+    "id": 675,
+    "name": "Samarth Medi Surgi Centre",
+    "phone": "+91-11-23340000",
+    "lat": 28.609,
+    "lon": 76.985
+  },
+  {
+    "id": 676,
+    "name": "Samra Hospital Pvt. Ltd.",
+    "phone": "0053 2291",
+    "lat": 28.6149,
+    "lon": 77.21
+  },
+  {
+    "id": 677,
+    "name": "Samyak Hospital BM-7 (East), Ground Floor,",
+    "phone": "0088 2749",
+    "lat": 28.718,
+    "lon": 77.16
+  },
+  {
+    "id": 678,
+    "name": "Sana Hospital 3116, Sir Syed Ahmed Road",
+    "phone": "0002 2325",
+    "lat": 28.643,
+    "lon": 77.243
+  },
+  {
+    "id": 679,
+    "name": "10 NW",
+    "phone": "0005 4777",
+    "lat": 28.613,
+    "lon": 76.989
+  },
+  {
+    "id": 680,
+    "name": "Sanjay Golbal Hospital",
+    "phone": "0033 2763",
+    "lat": 28.6189,
+    "lon": 77.214
+  },
+  {
+    "id": 681,
+    "name": "15 E",
+    "phone": "0007 2745",
+    "lat": 28.526,
+    "lon": 77.146
+  },
+  {
+    "id": 682,
+    "name": "Sanjeevan Medical Research Centre",
+    "phone": "0002 2584",
+    "lat": 28.6209,
+    "lon": 77.216
+  },
+  {
+    "id": 683,
+    "name": "Sanjeevan Speciality Hospital-A Unit of",
+    "phone": "0055 2361",
+    "lat": 28.6219,
+    "lon": 77.217
+  },
+  {
+    "id": 684,
+    "name": "Sanjeevni Hospital RZ-S-43, New Roshanpura",
+    "phone": "0043 6592",
+    "lat": 28.618,
+    "lon": 76.994
+  },
+  {
+    "id": 685,
+    "name": "Sanjivani Nursing Home",
+    "phone": "0007\n2384",
+    "lat": 28.6239,
+    "lon": 77.219
+  },
+  {
+    "id": 686,
+    "name": "Sanjyota hospital 19, Najafgarh Road",
+    "phone": "0041 1146",
+    "lat": 28.62,
+    "lon": 76.996
+  },
+  {
+    "id": 687,
+    "name": "50 C",
+    "phone": "0043 6592",
+    "lat": 28.621,
+    "lon": 76.997
+  },
+  {
+    "id": 688,
+    "name": "Sant Hospital Main Burari Road,Sant Nagar",
+    "phone": "0009 2761",
+    "lat": 28.6269,
+    "lon": 77.222
+  },
+  {
+    "id": 689,
+    "name": "Sant Kabir Charitable Hospital",
+    "phone": "0086 2758",
+    "lat": 28.6279,
+    "lon": 77.223
+  },
+  {
+    "id": 690,
+    "name": "Sant Kiran Dass Family Hospital",
+    "phone": "0041 2594",
+    "lat": 28.6289,
+    "lon": 77.194
+  },
+  {
+    "id": 691,
+    "name": "Sant Nirankari Mandal",
+    "phone": "0009 2743",
+    "lat": 28.6299,
+    "lon": 77.195
+  },
+  {
+    "id": 692,
+    "name": "Sant Parmanand Eye Hospital",
+    "phone": "0054 2398",
+    "lat": 28.6309,
+    "lon": 77.196
+  },
+  {
+    "id": 693,
+    "name": "2 E",
+    "phone": "0046 5249",
+    "lat": 28.538,
+    "lon": 77.128
+  },
+  {
+    "id": 694,
+    "name": "Santosh Hospital SB-19A, Amar Colony,",
+    "phone": "0041 1114",
+    "lat": 28.6329,
+    "lon": 77.198
+  },
+  {
+    "id": 695,
+    "name": "2 NW",
+    "phone": "0092 2214",
+    "lat": 28.629,
+    "lon": 76.975
+  },
+  {
+    "id": 696,
+    "name": "Saraswati Memo. Hospital",
+    "phone": "0005 2871",
+    "lat": 28.6349,
+    "lon": 77.2
+  },
+  {
+    "id": 697,
+    "name": "Sardana Eye Institute &",
+    "phone": "0027 2543",
+    "lat": 28.6359,
+    "lon": 77.201
+  },
+  {
+    "id": 698,
+    "name": "16 W",
+    "phone": "0087 2526",
+    "lat": 28.632,
+    "lon": 76.978
+  },
+  {
+    "id": 699,
+    "name": "Sarthak Medical Centre",
+    "phone": "0045 2508",
+    "lat": 28.6379,
+    "lon": 77.203
+  },
+  {
+    "id": 700,
+    "name": "Sarthak Hospital F-26/45, Sector-7, Rohini",
+    "phone": "0082 2705",
+    "lat": 28.6813,
+    "lon": 77.1071
+  },
+  {
+    "id": 701,
+    "name": "Satayanand Medical Centre",
+    "phone": "0027 2541",
+    "lat": 28.5899,
+    "lon": 77.205
+  },
+  {
+    "id": 702,
+    "name": "3 C",
+    "phone": "0017 4183",
+    "lat": 28.497,
+    "lon": 77.137
+  },
+  {
+    "id": 703,
+    "name": "Satyam Hospital Pvt. Ltd.",
+    "phone": "0085 2785",
+    "lat": 28.6843,
+    "lon": 77.1101
+  },
+  {
+    "id": 704,
+    "name": "Satyam Hospital Pvt. Ltd.",
+    "phone": "0043 1026",
+    "lat": 28.5929,
+    "lon": 77.208
+  },
+  {
+    "id": 705,
+    "name": "Satyam Medical Centre",
+    "phone": "0009 2712",
+    "lat": 28.5939,
+    "lon": 77.209
+  },
+  {
+    "id": 706,
+    "name": "Satyam Medical Centre",
+    "phone": "6968054",
+    "lat": 28.5949,
+    "lon": 77.21
+  },
+  {
+    "id": 707,
+    "name": "Satyawati Medical Centre",
+    "phone": "0041 3232",
+    "lat": 28.5959,
+    "lon": 77.211
+  },
+  {
+    "id": 708,
+    "name": "17 W",
+    "phone": "0039 2775",
+    "lat": 28.503,
+    "lon": 77.143
+  },
+  {
+    "id": 709,
+    "name": "Savera Hospital 3, Sainik Vihar,Pitam Pura",
+    "phone": "0034 2701",
+    "lat": 28.5979,
+    "lon": 77.213
+  },
+  {
+    "id": 710,
+    "name": "Savitri Hospital E-505-565, Shakurpur,",
+    "phone": "0034 9718",
+    "lat": 28.672,
+    "lon": 77.16
+  },
+  {
+    "id": 711,
+    "name": "Savitri Hospital 142/91 Lal Dora Kanjhwal a",
+    "phone": "0081 1032",
+    "lat": 28.5999,
+    "lon": 77.215
+  },
+  {
+    "id": 712,
+    "name": "35 SW",
+    "phone": "0096 2271",
+    "lat": 28.507,
+    "lon": 77.147
+  },
+  {
+    "id": 713,
+    "name": "Savnt Soham Hospital",
+    "phone": "0039 2775",
+    "lat": 28.6019,
+    "lon": 77.217
+  },
+  {
+    "id": 714,
+    "name": "Sawan Neelu Angel’s Nursing",
+    "phone": "0017 2696",
+    "lat": 28.6029,
+    "lon": 77.218
+  },
+  {
+    "id": 715,
+    "name": "Saxena Medical Centre",
+    "phone": "0091 2277",
+    "lat": 28.598,
+    "lon": 77.305
+  },
+  {
+    "id": 716,
+    "name": "Scared Heart Hospital",
+    "phone": "0037 1105",
+    "lat": 28.6049,
+    "lon": 77.22
+  },
+  {
+    "id": 717,
+    "name": "Seema Eye Centre Shop No-4, CSC F, Pocket F",
+    "phone": "0095 2211",
+    "lat": 28.6059,
+    "lon": 77.221
+  },
+  {
+    "id": 718,
+    "name": "10 E",
+    "phone": "0059 6576",
+    "lat": 28.602,
+    "lon": 76.998
+  },
+  {
+    "id": 719,
+    "name": "5 W",
+    "phone": "0052 2747",
+    "lat": 28.603,
+    "lon": 76.999
+  },
+  {
+    "id": 720,
+    "name": "Sethi Nursing Home",
+    "phone": "0033 2723",
+    "lat": 28.6089,
+    "lon": 77.194
+  },
+  {
+    "id": 721,
+    "name": "Sethi Panchsheel Nursing Home and",
+    "phone": "0007 2384",
+    "lat": 28.6099,
+    "lon": 77.195
+  },
+  {
+    "id": 722,
+    "name": "Sewa Medical Centre",
+    "phone": "0077 2954",
+    "lat": 28.6109,
+    "lon": 77.196
+  },
+  {
+    "id": 723,
+    "name": "7 NW",
+    "phone": "0075 4281",
+    "lat": 28.518,
+    "lon": 77.128
+  },
+  {
+    "id": 724,
+    "name": "Sh. Mahant Gurmukh Singh Ji",
+    "phone": "0026 2522",
+    "lat": 28.6129,
+    "lon": 77.198
+  },
+  {
+    "id": 725,
+    "name": "21 E",
+    "phone": "0043 6499",
+    "lat": 28.609,
+    "lon": 76.975
+  },
+  {
+    "id": 726,
+    "name": "Shakti Medical Centre",
+    "phone": "0031 2207",
+    "lat": 28.6149,
+    "lon": 77.2
+  },
+  {
+    "id": 727,
+    "name": "10 SW",
+    "phone": "0059 2535",
+    "lat": 28.522,
+    "lon": 77.132
+  },
+  {
+    "id": 728,
+    "name": "Shakuntla Nursing Home",
+    "phone": "0046 2538",
+    "lat": 28.6169,
+    "lon": 77.202
+  },
+  {
+    "id": 729,
+    "name": "Shambhavi Medical Centre",
+    "phone": "0042 6417",
+    "lat": 28.739,
+    "lon": 77.129
+  },
+  {
+    "id": 730,
+    "name": "Shankar Hospital B-6, Shankar Garden,Tilak",
+    "phone": "0018 2555",
+    "lat": 28.6189,
+    "lon": 77.204
+  },
+  {
+    "id": 731,
+    "name": "Shankhwar Hospital D-134,Kondli Kondli Delhi 110096 22612455 488 11 E",
+    "phone": "0096 2261",
+    "lat": 28.6199,
+    "lon": 77.205
+  },
+  {
+    "id": 732,
+    "name": "Shanta Nursing Home",
+    "phone": "0042 2729",
+    "lat": 28.6209,
+    "lon": 77.206
+  },
+  {
+    "id": 733,
+    "name": "Shantam Nursing Home",
+    "phone": "0087 2526",
+    "lat": 28.6219,
+    "lon": 77.207
+  },
+  {
+    "id": 734,
+    "name": "2 W",
+    "phone": "0030 2664",
+    "lat": 28.529,
+    "lon": 77.139
+  },
+  {
+    "id": 735,
+    "name": "Shanti Kumud Hospital",
+    "phone": "+91-11-23340000",
+    "lat": 28.6239,
+    "lon": 77.209
+  },
+  {
+    "id": 736,
+    "name": "10 NE",
+    "phone": "0040 2728",
+    "lat": 28.531,
+    "lon": 77.141
+  },
+  {
+    "id": 737,
+    "name": "Shanti Mohan Hospital",
+    "phone": "0040 2728",
+    "lat": 28.865,
+    "lon": 77.094
+  },
+  {
+    "id": 738,
+    "name": "Shanti Mukund Hospital",
+    "phone": "0092 2237",
+    "lat": 28.645,
+    "lon": 77.283
+  },
+  {
+    "id": 739,
+    "name": "25 E",
+    "phone": "0008 1064",
+    "lat": 28.623,
+    "lon": 76.989
+  },
+  {
+    "id": 740,
+    "name": "Shanti Nursing Home Ltd.",
+    "phone": "0059 1070",
+    "lat": 28.6289,
+    "lon": 77.214
+  },
+  {
+    "id": 741,
+    "name": "Sharad Nursing Home",
+    "phone": "0041 2518",
+    "lat": 28.625,
+    "lon": 76.991
+  },
+  {
+    "id": 742,
+    "name": "27 NW",
+    "phone": "0008 2589",
+    "lat": 28.626,
+    "lon": 76.992
+  },
+  {
+    "id": 743,
+    "name": "Sharda Medical Centre",
+    "phone": "0025 9891",
+    "lat": 28.5781,
+    "lon": 77.2807
+  },
+  {
+    "id": 744,
+    "name": "Sharma Clinic & Maternity Centre",
+    "phone": "0092 2254",
+    "lat": 28.651,
+    "lon": 77.289
+  },
+  {
+    "id": 745,
+    "name": "Sharma Hospital H-482, Vikas Puri New Delhi",
+    "phone": "0018 2854",
+    "lat": 28.6339,
+    "lon": 77.219
+  },
+  {
+    "id": 746,
+    "name": "Sharma Medical Centre",
+    "phone": "0035 2365",
+    "lat": 28.6349,
+    "lon": 77.22
+  },
+  {
+    "id": 747,
+    "name": "Sharma Nursing Home",
+    "phone": "0053 2291",
+    "lat": 28.6359,
+    "lon": 77.221
+  },
+  {
+    "id": 748,
+    "name": "4 W",
+    "phone": "0040 2728",
+    "lat": 28.543,
+    "lon": 77.153
+  },
+  {
+    "id": 749,
+    "name": "3 SW",
+    "phone": "0019 2647",
+    "lat": 28.633,
+    "lon": 76.999
+  },
+  {
+    "id": 750,
+    "name": "Sharp sight centre EAST",
+    "phone": "0092 2246",
+    "lat": 28.5889,
+    "lon": 77.194
+  },
+  {
+    "id": 751,
+    "name": "Sharp Sight Hospital",
+    "phone": "0005 2246",
+    "lat": 28.5899,
+    "lon": 77.195
+  },
+  {
+    "id": 752,
+    "name": "Shastri Hospital M-38, Shakurpur J.J.Colony Delhi 110034 27187161 248 6 NW",
+    "phone": "0034 2718",
+    "lat": 28.664,
+    "lon": 77.142
+  },
+  {
+    "id": 753,
+    "name": "Shishu Mangal Fertility &",
+    "phone": "0053 2291",
+    "lat": 28.5919,
+    "lon": 77.197
+  },
+  {
+    "id": 754,
+    "name": "Shishu Sadan (Children’s Clinic &",
+    "phone": "0018 2599",
+    "lat": 28.5929,
+    "lon": 77.198
+  },
+  {
+    "id": 755,
+    "name": "4 S",
+    "phone": "0093 6565",
+    "lat": 28.5,
+    "lon": 77.13
+  },
+  {
+    "id": 756,
+    "name": "Shivam Nursing Home",
+    "phone": "0053 2256",
+    "lat": 28.5949,
+    "lon": 77.2
+  },
+  {
+    "id": 757,
+    "name": "Shivam Surgical and Maternity Centre",
+    "phone": "0092 2256",
+    "lat": 28.5959,
+    "lon": 77.201
+  },
+  {
+    "id": 758,
+    "name": "Shivani Maternity & Ultrasound Centre",
+    "phone": "0032 2282",
+    "lat": 28.5969,
+    "lon": 77.202
+  },
+  {
+    "id": 759,
+    "name": "Shobha Dayal’s Medical Centre",
+    "phone": "6498395",
+    "lat": 28.5979,
+    "lon": 77.203
+  },
+  {
+    "id": 760,
+    "name": "Shradha Multispeciality",
+    "phone": "0040 2728",
+    "lat": 28.838,
+    "lon": 77.087
+  },
+  {
+    "id": 761,
+    "name": "Shree Balaji Hospital 63 A, G Block, Inder Enclave,",
+    "phone": "0086 6519",
+    "lat": 28.5999,
+    "lon": 77.205
+  },
+  {
+    "id": 762,
+    "name": "Shree Hospital Plot No. 12 A, Roshan Garden",
+    "phone": "0043 1188",
+    "lat": 28.596,
+    "lon": 76.982
+  },
+  {
+    "id": 763,
+    "name": "Shree Jeewan Hospital",
+    "phone": "0005 2368",
+    "lat": 28.64,
+    "lon": 77.188
+  },
+  {
+    "id": 764,
+    "name": "5 NE",
+    "phone": "0040 2547",
+    "lat": 28.509,
+    "lon": 77.139
+  },
+  {
+    "id": 765,
+    "name": "Shree Ram Hospital A-19, Raj Harsh Nagar, Vikas",
+    "phone": "0059 1113",
+    "lat": 28.6039,
+    "lon": 77.209
+  },
+  {
+    "id": 766,
+    "name": "Shreya Eye Centre D-163, Surajmal Vihar",
+    "phone": "+91-11-23340000",
+    "lat": 28.6049,
+    "lon": 77.21
+  },
+  {
+    "id": 767,
+    "name": "Shri Amichand Eye Care & Anasthetics",
+    "phone": "0043 6990",
+    "lat": 28.601,
+    "lon": 76.987
+  },
+  {
+    "id": 768,
+    "name": "Shri Balaji Hospital Opp. Patrol Pump,Main Delhi",
+    "phone": "0039 6467",
+    "lat": 28.6069,
+    "lon": 77.212
+  },
+  {
+    "id": 769,
+    "name": "Shri Balaji Hospital Plot No. 76, Bhim Singh Market,",
+    "phone": "0086 1209",
+    "lat": 28.6079,
+    "lon": 77.213
+  },
+  {
+    "id": 770,
+    "name": "20 W",
+    "phone": "0074 2536",
+    "lat": 28.515,
+    "lon": 77.145
+  },
+  {
+    "id": 771,
+    "name": "5 E",
+    "phone": "0009 2722",
+    "lat": 28.605,
+    "lon": 76.991
+  },
+  {
+    "id": 772,
+    "name": "8 W",
+    "phone": "0094 3254",
+    "lat": 28.606,
+    "lon": 76.992
+  },
+  {
+    "id": 773,
+    "name": "3 W",
+    "phone": "0063 2526",
+    "lat": 28.607,
+    "lon": 76.993
+  },
+  {
+    "id": 774,
+    "name": "Shri Ram Singh Hospital",
+    "phone": "0051 2254",
+    "lat": 28.6129,
+    "lon": 77.218
+  },
+  {
+    "id": 775,
+    "name": "Shri Shyam Nursing Home",
+    "phone": "0085 1211",
+    "lat": 28.7063,
+    "lon": 77.1221
+  },
+  {
+    "id": 776,
+    "name": "Shri Vardhman Jain Hospital",
+    "phone": "0085 2785",
+    "lat": 28.7073,
+    "lon": 77.1231
+  },
+  {
+    "id": 777,
+    "name": "Shrivastava Nursing Home",
+    "phone": "0085 2794",
+    "lat": 28.7083,
+    "lon": 77.1241
+  },
+  {
+    "id": 778,
+    "name": "Shroff Eye Centre A-9, Kailash Colony",
+    "phone": "0048 2644",
+    "lat": 28.6169,
+    "lon": 77.222
+  },
+  {
+    "id": 779,
+    "name": "Shubh Nursing Home",
+    "phone": "0059 2537",
+    "lat": 28.6179,
+    "lon": 77.223
+  },
+  {
+    "id": 780,
+    "name": "Shubham Hospital DD-15, Kalkaji Kalkaji Delhi 110019 26439867 , 26437885",
+    "phone": "0019 2643",
+    "lat": 28.6189,
+    "lon": 77.194
+  },
+  {
+    "id": 781,
+    "name": "Shyam Lal Eye Hospital",
+    "phone": "0007 2385",
+    "lat": 28.6199,
+    "lon": 77.195
+  },
+  {
+    "id": 782,
+    "name": "Shyama Advance Gynae. Centre &",
+    "phone": "+91-11-23340000",
+    "lat": 28.6209,
+    "lon": 77.196
+  },
+  {
+    "id": 783,
+    "name": "Siddhant Hospital D-7, ,Mahavir Enclave",
+    "phone": "0045 2503",
+    "lat": 28.6219,
+    "lon": 77.197
+  },
+  {
+    "id": 784,
+    "name": "Siddhart Hospital 1179, Kanjawala Road",
+    "phone": "0039 2775",
+    "lat": 28.6229,
+    "lon": 77.198
+  },
+  {
+    "id": 785,
+    "name": "Siddhart Medical Centre",
+    "phone": "0094 2281",
+    "lat": 28.6239,
+    "lon": 77.199
+  },
+  {
+    "id": 786,
+    "name": "Siddharth Hospital C-11, Milap Nagar, Uttam",
+    "phone": "0059 2563",
+    "lat": 28.6249,
+    "lon": 77.2
+  },
+  {
+    "id": 787,
+    "name": "Siddhtam Medical Centre",
+    "phone": "0058 2559",
+    "lat": 28.633,
+    "lon": 77.077
+  },
+  {
+    "id": 788,
+    "name": "5 S",
+    "phone": "0059 2535",
+    "lat": 28.622,
+    "lon": 76.978
+  },
+  {
+    "id": 789,
+    "name": "Silver Line Nursing Home",
+    "phone": "+91-11-23340000",
+    "lat": 28.6279,
+    "lon": 77.203
+  },
+  {
+    "id": 790,
+    "name": "Singh Heart Centre & Nursing Home",
+    "phone": "0018 2554",
+    "lat": 28.6289,
+    "lon": 77.204
+  },
+  {
+    "id": 791,
+    "name": "Singh Nursing Home",
+    "phone": "0095 2214",
+    "lat": 28.6299,
+    "lon": 77.205
+  },
+  {
+    "id": 792,
+    "name": "4 W",
+    "phone": "0068 2953",
+    "lat": 28.537,
+    "lon": 77.137
+  },
+  {
+    "id": 793,
+    "name": "Singhal Medical Centre",
+    "phone": "0051 2200",
+    "lat": 28.6319,
+    "lon": 77.207
+  },
+  {
+    "id": 794,
+    "name": "Singhal Nursing Home",
+    "phone": "0031 2208",
+    "lat": 28.6329,
+    "lon": 77.208
+  },
+  {
+    "id": 795,
+    "name": "20 S",
+    "phone": "0007 2384",
+    "lat": 28.641,
+    "lon": 77.085
+  },
+  {
+    "id": 796,
+    "name": "10 E",
+    "phone": "0085 4308",
+    "lat": 28.541,
+    "lon": 77.141
+  },
+  {
+    "id": 797,
+    "name": "Sir Ganga Ram Hospital",
+    "phone": "0060 4225",
+    "lat": 28.6359,
+    "lon": 77.211
+  },
+  {
+    "id": 798,
+    "name": "Sita Ram Bhartia Institute of Medical",
+    "phone": "0030 4211",
+    "lat": 28.54,
+    "lon": 77.187
+  },
+  {
+    "id": 799,
+    "name": "2 NW",
+    "phone": "0087 2528",
+    "lat": 28.544,
+    "lon": 77.144
+  },
+  {
+    "id": 800,
+    "name": "Smt.Prakash Devi Memo. Medical",
+    "phone": "+91-11-23340000",
+    "lat": 28.5889,
+    "lon": 77.214
+  },
+  {
+    "id": 801,
+    "name": "Sodhi Nursing Home",
+    "phone": "0087 2526",
+    "lat": 28.5899,
+    "lon": 77.215
+  },
+  {
+    "id": 802,
+    "name": "Sona Mat. & Nursing Home",
+    "phone": "0032 2230",
+    "lat": 28.65,
+    "lon": 77.294
+  },
+  {
+    "id": 803,
+    "name": "Soni Medical Centre A-103, Dashrathpuri",
+    "phone": "0045 2539",
+    "lat": 28.5919,
+    "lon": 77.217
+  },
+  {
+    "id": 804,
+    "name": "Sonia Hospital Pvt. Ltd.",
+    "phone": "0041 2596",
+    "lat": 28.5929,
+    "lon": 77.218
+  },
+  {
+    "id": 805,
+    "name": "Sood Medicare 22/1, Mukherji Park, Tilak Nagar",
+    "phone": "0018 5587",
+    "lat": 28.5939,
+    "lon": 77.219
+  },
+  {
+    "id": 806,
+    "name": "23 S",
+    "phone": "0051 2241",
+    "lat": 28.59,
+    "lon": 76.996
+  },
+  {
+    "id": 807,
+    "name": "South Delhi Urology Clinic",
+    "phone": "0016 6515",
+    "lat": 28.5959,
+    "lon": 77.221
+  },
+  {
+    "id": 808,
+    "name": "Sparsh Hospital RR-3, Main Wali Nagar, Rohtak",
+    "phone": "0041 2526",
+    "lat": 28.5969,
+    "lon": 77.222
+  },
+  {
+    "id": 809,
+    "name": "Sparsh Mother & Child Care Centre",
+    "phone": "0007 4566",
+    "lat": 28.5979,
+    "lon": 77.223
+  },
+  {
+    "id": 810,
+    "name": "25 W",
+    "phone": "0008 2769",
+    "lat": 28.594,
+    "lon": 76.97
+  },
+  {
+    "id": 811,
+    "name": "Spectra Eye Centre E-82 A, GK-I Greater Kailash",
+    "phone": "0048 4759",
+    "lat": 28.5999,
+    "lon": 77.195
+  },
+  {
+    "id": 812,
+    "name": "Springdale’s Medical Centre &",
+    "phone": "0085 2756",
+    "lat": 28.6933,
+    "lon": 77.0991
+  },
+  {
+    "id": 813,
+    "name": "Sree Sai Hospital sree sai hospital plot no -254",
+    "phone": "0019 1090",
+    "lat": 28.6019,
+    "lon": 77.197
+  },
+  {
+    "id": 814,
+    "name": "SRG Hospital 205-206, Phase- I,Kotla Vihar",
+    "phone": "0041 1137",
+    "lat": 28.6029,
+    "lon": 77.198
+  },
+  {
+    "id": 815,
+    "name": "Sri Balaji Action Medical Institute (",
+    "phone": "0063 4288",
+    "lat": 28.656,
+    "lon": 77.09
+  },
+  {
+    "id": 816,
+    "name": "Sri Krishna Hospital Plot No. 23-24, Main Matiala",
+    "phone": "0059 2533",
+    "lat": 28.6049,
+    "lon": 77.2
+  },
+  {
+    "id": 817,
+    "name": "3 N",
+    "phone": "6968054",
+    "lat": 28.601,
+    "lon": 76.977
+  },
+  {
+    "id": 818,
+    "name": "St. Stephen’s Hospital",
+    "phone": "0054 2396",
+    "lat": 28.6069,
+    "lon": 77.202
+  },
+  {
+    "id": 819,
+    "name": "St.Marey Medical Centre",
+    "phone": "0047 2091",
+    "lat": 28.6079,
+    "lon": 77.203
+  },
+  {
+    "id": 820,
+    "name": "Sudersan Hospital 116, G-Block, Punjabi Colony",
+    "phone": "0040 1191",
+    "lat": 28.848,
+    "lon": 77.087
+  },
+  {
+    "id": 821,
+    "name": "Sugandha Hospital 1/E/2/7A, East Babarpur, Shahdra",
+    "phone": "0032 2282",
+    "lat": 28.6099,
+    "lon": 77.205
+  },
+  {
+    "id": 822,
+    "name": "Sujan Mohinder Singh Memorial",
+    "phone": "6317330",
+    "lat": 28.6109,
+    "lon": 77.206
+  },
+  {
+    "id": 823,
+    "name": "Sukhda Hospital R-Block, Local Shopping Centre,",
+    "phone": "6416440",
+    "lat": 28.545,
+    "lon": 77.232
+  },
+  {
+    "id": 824,
+    "name": "Sukhija Nursing Home",
+    "phone": "0095 2215",
+    "lat": 28.6129,
+    "lon": 77.208
+  },
+  {
+    "id": 825,
+    "name": "Sukhmani Hospital B-7, Extn./126A, Safdarjung",
+    "phone": "+91-11-23340000",
+    "lat": 28.5703,
+    "lon": 77.2069
+  },
+  {
+    "id": 826,
+    "name": "Suman Medicare C-1-A/36A, Janakpuri",
+    "phone": "0058 2554",
+    "lat": 28.622,
+    "lon": 77.086
+  },
+  {
+    "id": 827,
+    "name": "Suman Superspeciality",
+    "phone": "25540250",
+    "lat": 28.6159,
+    "lon": 77.211
+  },
+  {
+    "id": 828,
+    "name": "Sumitra Hospital 142, Arihant Nagar, Shiv",
+    "phone": "0026 2522",
+    "lat": 28.6169,
+    "lon": 77.212
+  },
+  {
+    "id": 829,
+    "name": "Sunder Lal Jain Charitable Eye",
+    "phone": "0055 2711",
+    "lat": 28.6179,
+    "lon": 77.213
+  },
+  {
+    "id": 830,
+    "name": "Sunder Lal Jain Charitable Hosp.",
+    "phone": "0052 2711",
+    "lat": 28.6189,
+    "lon": 77.214
+  },
+  {
+    "id": 831,
+    "name": "Sunetra Eye Centre S-52, panchsheel Park",
+    "phone": "0017 2601",
+    "lat": 28.6199,
+    "lon": 77.215
+  },
+  {
+    "id": 832,
+    "name": "Sunil Hospital & Nursing Home",
+    "phone": "0017 2688",
+    "lat": 28.6209,
+    "lon": 77.216
+  },
+  {
+    "id": 833,
+    "name": "Sunil Memorial Nursing Home",
+    "phone": "0045 2508",
+    "lat": 28.6219,
+    "lon": 77.217
+  },
+  {
+    "id": 834,
+    "name": "Sunjeevini Surgical Centre",
+    "phone": "0085 2751",
+    "lat": 28.7153,
+    "lon": 77.1211
+  },
+  {
+    "id": 835,
+    "name": "Sunrise Hospital Plot no.1, Pocket-8 B, Sector-15,",
+    "phone": "0085 2729",
+    "lat": 28.7163,
+    "lon": 77.1221
+  },
+  {
+    "id": 836,
+    "name": "Sunrise Hospital Sunrise hospital F- 1 Kalindi colony",
+    "phone": "0065 1089",
+    "lat": 28.6249,
+    "lon": 77.22
+  },
+  {
+    "id": 837,
+    "name": "Suraksha Eye & Surgery Centre",
+    "phone": "+91-11-23340000",
+    "lat": 28.6259,
+    "lon": 77.221
+  },
+  {
+    "id": 838,
+    "name": "Suraksha Nursing Home",
+    "phone": "0095 2235",
+    "lat": 28.6269,
+    "lon": 77.222
+  },
+  {
+    "id": 839,
+    "name": "Suraksha Nursing HOME",
+    "phone": "0061 1058",
+    "lat": 28.6279,
+    "lon": 77.223
+  },
+  {
+    "id": 840,
+    "name": "Surgi Centre Nursing Home",
+    "phone": "0095 2214",
+    "lat": 28.6289,
+    "lon": 77.194
+  },
+  {
+    "id": 841,
+    "name": "Surya Hospital 383/11C, Basti Azad",
+    "phone": "0051 2200",
+    "lat": 28.6299,
+    "lon": 77.195
+  },
+  {
+    "id": 842,
+    "name": "Surya Kiran Hospital Pvt. Ltd",
+    "phone": "0043 2532",
+    "lat": 28.626,
+    "lon": 76.972
+  },
+  {
+    "id": 843,
+    "name": "Sushila Hospital Gali No. 1, Rajeev Colony, Arya",
+    "phone": "0040 6573",
+    "lat": 28.871,
+    "lon": 77.08
+  },
+  {
+    "id": 844,
+    "name": "Sushruta Maternity & Surgical Centre",
+    "phone": "0087 2526",
+    "lat": 28.6329,
+    "lon": 77.198
+  },
+  {
+    "id": 845,
+    "name": "Swasthik Hospital 14, Gopal Nagar Gopal Nagar",
+    "phone": "0018 2549",
+    "lat": 28.6339,
+    "lon": 77.199
+  },
+  {
+    "id": 846,
+    "name": "Swasthik Hospital 9A, Raghuvir Enclave, Dhichaon",
+    "phone": "0043 1214",
+    "lat": 28.63,
+    "lon": 76.976
+  },
+  {
+    "id": 847,
+    "name": "22 W",
+    "phone": "0005 2351",
+    "lat": 28.631,
+    "lon": 76.977
+  },
+  {
+    "id": 848,
+    "name": "Swasthya Hospital D-2/11, Krishna Nagar",
+    "phone": "0051 2200",
+    "lat": 28.6369,
+    "lon": 77.202
+  },
+  {
+    "id": 849,
+    "name": "Swastik Maternity Centre",
+    "phone": "0085 2793",
+    "lat": 28.7303,
+    "lon": 77.1061
+  },
+  {
+    "id": 850,
+    "name": "Sweety Clinic and Maternity Centre",
+    "phone": "0059 1156",
+    "lat": 28.5889,
+    "lon": 77.204
+  },
+  {
+    "id": 851,
+    "name": "Talwar Medical Centre",
+    "phone": "0048 2921",
+    "lat": 28.5899,
+    "lon": 77.205
+  },
+  {
+    "id": 852,
+    "name": "Tandon Nursing Home",
+    "phone": "0092 2921",
+    "lat": 28.5909,
+    "lon": 77.206
+  },
+  {
+    "id": 853,
+    "name": "Taneja Hospital F-15, Preet Vihar Preet Vihar",
+    "phone": "0092 4911",
+    "lat": 28.618,
+    "lon": 77.288
+  },
+  {
+    "id": 854,
+    "name": "Taneja Hospital Taneja Hospital E- 982, Chitraranjan",
+    "phone": "1009 2627",
+    "lat": 28.5929,
+    "lon": 77.208
+  },
+  {
+    "id": 855,
+    "name": "Taneja Medical Centre",
+    "phone": "0088 2749",
+    "lat": 28.696,
+    "lon": 77.158
+  },
+  {
+    "id": 856,
+    "name": "Tara Netralaya wz-270, laya gaur navada, uttam",
+    "phone": "0059 1103",
+    "lat": 28.5949,
+    "lon": 77.21
+  },
+  {
+    "id": 857,
+    "name": "Tausif Nursing Home H.No. 853/6 Street No. 9",
+    "phone": "0094 1210",
+    "lat": 28.5959,
+    "lon": 77.211
+  },
+  {
+    "id": 858,
+    "name": "Temple Nursing Home",
+    "phone": "0002 2327",
+    "lat": 28.5969,
+    "lon": 77.212
+  },
+  {
+    "id": 859,
+    "name": "The Caring Touch R-721, New Rajinder Nagar",
+    "phone": "0060 2874",
+    "lat": 28.5979,
+    "lon": 77.213
+  },
+  {
+    "id": 860,
+    "name": "The Diagnosis Nursing Home",
+    "phone": "0045 2505",
+    "lat": 28.5989,
+    "lon": 77.214
+  },
+  {
+    "id": 861,
+    "name": "The Family Clinic and Children",
+    "phone": "0059 2564",
+    "lat": 28.5999,
+    "lon": 77.215
+  },
+  {
+    "id": 862,
+    "name": "The Heart Centre 2, Ring Road,Lajpat Nagar",
+    "phone": "0024 6569",
+    "lat": 28.5555,
+    "lon": 77.2438
+  },
+  {
+    "id": 863,
+    "name": "The Laprosy Mission Hospital",
+    "phone": "0095 2258",
+    "lat": 28.6019,
+    "lon": 77.217
+  },
+  {
+    "id": 864,
+    "name": "The Maples Medical Centre",
+    "phone": "6223822",
+    "lat": 28.6029,
+    "lon": 77.218
+  },
+  {
+    "id": 865,
+    "name": "Tirath Ram Shah Charitable Hospital",
+    "phone": "0054 2397",
+    "lat": 28.6039,
+    "lon": 77.219
+  },
+  {
+    "id": 866,
+    "name": "Tirupati Medical Centre",
+    "phone": "0017 2668",
+    "lat": 28.6049,
+    "lon": 77.22
+  },
+  {
+    "id": 867,
+    "name": "Tirupati Stone Centre & Hospital",
+    "phone": "0051 2246",
+    "lat": 28.6059,
+    "lon": 77.221
+  },
+  {
+    "id": 868,
+    "name": "Tomar Medical Centre",
+    "phone": "0058 1185",
+    "lat": 28.614,
+    "lon": 77.098
+  },
+  {
+    "id": 869,
+    "name": "Tomar Multispeciality Hospital",
+    "phone": "0041 1212",
+    "lat": 28.6079,
+    "lon": 77.223
+  },
+  {
+    "id": 870,
+    "name": "Triveni Hospital Main Sadatpur,Karawal",
+    "phone": "0094 2251",
+    "lat": 28.6089,
+    "lon": 77.194
+  },
+  {
+    "id": 871,
+    "name": "Triveni Hospital Shiv puri Najfgarh Najfgarh Delhi 110043 991 15 SW",
+    "phone": "+91-11-23340000",
+    "lat": 28.6099,
+    "lon": 77.195
+  },
+  {
+    "id": 872,
+    "name": "Tushir Eye Centre U-80, Goutam Colony",
+    "phone": "0040 2728",
+    "lat": 28.85,
+    "lon": 77.079
+  },
+  {
+    "id": 873,
+    "name": "Tyagi Hospital and Maternity Center",
+    "phone": "0033 2769",
+    "lat": 28.6119,
+    "lon": 77.197
+  },
+  {
+    "id": 874,
+    "name": "Tyagi Nursing Home",
+    "phone": "0018 2513",
+    "lat": 28.6129,
+    "lon": 77.198
+  },
+  {
+    "id": 875,
+    "name": "U.K.Nursing Home M-25, Vikas Puri Vikaspuri Delhi 110018 25508998 254 18 W",
+    "phone": "0018 2550",
+    "lat": 28.637,
+    "lon": 77.062
+  },
+  {
+    "id": 876,
+    "name": "Uday ENT Hospital B-7, Derawal Nagar",
+    "phone": "0009 2712",
+    "lat": 28.6149,
+    "lon": 77.2
+  },
+  {
+    "id": 877,
+    "name": "Upchaar A-95, Ashok Vihar, Phase-II",
+    "phone": "0052 2721",
+    "lat": 28.6159,
+    "lon": 77.201
+  },
+  {
+    "id": 878,
+    "name": "Urgent Care Centre A-15 Swasthya Vihar",
+    "phone": "0092 1094",
+    "lat": 28.6169,
+    "lon": 77.202
+  },
+  {
+    "id": 879,
+    "name": "Urgent Care Centre CC-29,Nehru Enclave",
+    "phone": "0019 1133",
+    "lat": 28.6179,
+    "lon": 77.203
+  },
+  {
+    "id": 880,
+    "name": "Urgent Care Centre G-51, Sheen Bagh Okhla Delhi 110025 66541128 1180 10 S",
+    "phone": "0025 6654",
+    "lat": 28.5651,
+    "lon": 77.2677
+  },
+  {
+    "id": 881,
+    "name": "Urocare A-3/12, F.F., Janakpuri",
+    "phone": "0058 4552",
+    "lat": 28.627,
+    "lon": 77.081
+  },
+  {
+    "id": 882,
+    "name": "Urogyn 135-136, /PKT F- 22, Rohini, Sector-",
+    "phone": "0085 2751",
+    "lat": 28.7133,
+    "lon": 77.1091
+  },
+  {
+    "id": 883,
+    "name": "Urolife Nursing Home",
+    "phone": "0065 4167",
+    "lat": 28.6219,
+    "lon": 77.207
+  },
+  {
+    "id": 884,
+    "name": "Urolife Nursing Homew",
+    "phone": "0016 1179",
+    "lat": 28.6229,
+    "lon": 77.208
+  },
+  {
+    "id": 885,
+    "name": "Usha Memorial Orthopaedic Centre",
+    "phone": "0051 2209",
+    "lat": 28.6239,
+    "lon": 77.209
+  },
+  {
+    "id": 886,
+    "name": "Vaid Maternity and Nursing Home",
+    "phone": "0032 2232",
+    "lat": 28.6249,
+    "lon": 77.21
+  },
+  {
+    "id": 887,
+    "name": "Vallabh Hospital 1402 B/13, Main Govind Puri",
+    "phone": "0019 2646",
+    "lat": 28.6259,
+    "lon": 77.211
+  },
+  {
+    "id": 888,
+    "name": "Vani Nursing Home Ishwar Colony, NDPL office,",
+    "phone": "0039 2775",
+    "lat": 28.6269,
+    "lon": 77.212
+  },
+  {
+    "id": 889,
+    "name": "Vardaan Hospital B-100, Malviya Nagar,",
+    "phone": "0017 2668",
+    "lat": 28.6279,
+    "lon": 77.213
+  },
+  {
+    "id": 890,
+    "name": "Vardhmaan Dialysis Centre",
+    "phone": "0085 2794",
+    "lat": 28.7213,
+    "lon": 77.1171
+  },
+  {
+    "id": 891,
+    "name": "Vasan Eye Care Hospital",
+    "phone": "0005 3989",
+    "lat": 28.6299,
+    "lon": 77.215
+  },
+  {
+    "id": 892,
+    "name": "Vasan Eye Care Hospital",
+    "phone": "0092 3989",
+    "lat": 28.657,
+    "lon": 77.297
+  },
+  {
+    "id": 893,
+    "name": "Vasan Eye Care Hospital",
+    "phone": "0034 1111",
+    "lat": 28.717,
+    "lon": 77.139
+  },
+  {
+    "id": 894,
+    "name": "Vasan Eye Care Hospital",
+    "phone": "0048 3989",
+    "lat": 28.6329,
+    "lon": 77.218
+  },
+  {
+    "id": 895,
+    "name": "Vasan Eye Care Hospital",
+    "phone": "0059 3989",
+    "lat": 28.641,
+    "lon": 77.095
+  },
+  {
+    "id": 896,
+    "name": "Vasan Eye Care Hospital",
+    "phone": "0009 3010",
+    "lat": 28.6349,
+    "lon": 77.22
+  },
+  {
+    "id": 897,
+    "name": "Vashishta Clinic B-35 Panchsheel, Geetanjali Road,",
+    "phone": "0017 2669",
+    "lat": 28.6359,
+    "lon": 77.221
+  },
+  {
+    "id": 898,
+    "name": "Shri Daya Dutt Vasist Hospital",
+    "phone": "0018 6594",
+    "lat": 28.6369,
+    "lon": 77.222
+  },
+  {
+    "id": 899,
+    "name": "Vasisth Medical Centre",
+    "phone": "0028 6541",
+    "lat": 28.6379,
+    "lon": 77.223
+  },
+  {
+    "id": 900,
+    "name": "Vasudeva Nursing Home",
+    "phone": "0017 2666",
+    "lat": 28.5889,
+    "lon": 77.194
+  },
+  {
+    "id": 901,
+    "name": "Vasundhara Eye Clinic",
+    "phone": "0077 2508",
+    "lat": 28.5583,
+    "lon": 77.0481
+  },
+  {
+    "id": 902,
+    "name": "Vats ENT Centre 698/5 Yamuna Vihar, Road No.",
+    "phone": "0003 2291",
+    "lat": 28.5909,
+    "lon": 77.196
+  },
+  {
+    "id": 903,
+    "name": "Veena Nursing Home",
+    "phone": "0085 2794",
+    "lat": 28.6843,
+    "lon": 77.1001
+  },
+  {
+    "id": 904,
+    "name": "Veenu Surgical Centre",
+    "phone": "0088 2749",
+    "lat": 28.695,
+    "lon": 77.147
+  },
+  {
+    "id": 905,
+    "name": "Veer Nursing Home A-3/12/7 Main Pusta Road, 41/2",
+    "phone": "0053 1096",
+    "lat": 28.5939,
+    "lon": 77.199
+  },
+  {
+    "id": 906,
+    "name": "Venu Eye Institute & Resarch Centre",
+    "phone": "0017 2925",
+    "lat": 28.5949,
+    "lon": 77.2
+  },
+  {
+    "id": 907,
+    "name": "Verma Nursing Home",
+    "phone": "0015 2543",
+    "lat": 28.5959,
+    "lon": 77.201
+  },
+  {
+    "id": 908,
+    "name": "Verma Nursing Home",
+    "phone": "0015 2510",
+    "lat": 28.5969,
+    "lon": 77.202
+  },
+  {
+    "id": 909,
+    "name": "Vibhu Nursing Home",
+    "phone": "0017 2668",
+    "lat": 28.519,
+    "lon": 77.203
+  },
+  {
+    "id": 910,
+    "name": "Vidyawati Nirsing Home",
+    "phone": "0032 2239",
+    "lat": 28.5989,
+    "lon": 77.204
+  },
+  {
+    "id": 911,
+    "name": "Vijay Laxmi Hospital",
+    "phone": "+91-11-23340000",
+    "lat": 28.5999,
+    "lon": 77.205
+  },
+  {
+    "id": 912,
+    "name": "Vijay Nursing Home",
+    "phone": "0085 2751",
+    "lat": 28.6933,
+    "lon": 77.1091
+  },
+  {
+    "id": 913,
+    "name": "Vikas Hospital 1629-H, Thana Road,",
+    "phone": "0043 1205",
+    "lat": 28.597,
+    "lon": 76.983
+  },
+  {
+    "id": 914,
+    "name": "Vikas Hospital Pvt. Ltd.",
+    "phone": "0043 2501",
+    "lat": 28.598,
+    "lon": 76.984
+  },
+  {
+    "id": 915,
+    "name": "Vinaya Bhawan Mat. Centre",
+    "phone": "0062 2995",
+    "lat": 28.6039,
+    "lon": 77.209
+  },
+  {
+    "id": 916,
+    "name": "Vinayak Hospital Plot no. 2, Derawal Nagar",
+    "phone": "+91-11-23340000",
+    "lat": 28.6049,
+    "lon": 77.21
+  },
+  {
+    "id": 917,
+    "name": "Vinod Nursing Home",
+    "phone": "0035 2751",
+    "lat": 28.6983,
+    "lon": 77.1141
+  },
+  {
+    "id": 918,
+    "name": "Viola Hospital D-57 Abul Fazal Enclave",
+    "phone": "0025 2698",
+    "lat": 28.5531,
+    "lon": 77.2757
+  },
+  {
+    "id": 919,
+    "name": "Virmani Nursing Home",
+    "phone": "0091 2277",
+    "lat": 28.6079,
+    "lon": 77.213
+  },
+  {
+    "id": 920,
+    "name": "Vision Eye Centre 12/27, West Patel Nagar",
+    "phone": "0008 2588",
+    "lat": 28.6089,
+    "lon": 77.214
+  },
+  {
+    "id": 921,
+    "name": "Vision Eye Centre 19, Siri Fort Road, Sri Fort Delhi 110049 1072 10 SZ",
+    "phone": "0049 1072",
+    "lat": 28.6099,
+    "lon": 77.215
+  },
+  {
+    "id": 922,
+    "name": "Vision Eye Hospital F 24/136, Sector-7, Rohini",
+    "phone": "0085 2705",
+    "lat": 28.7033,
+    "lon": 77.1191
+  },
+  {
+    "id": 923,
+    "name": "Visitech Eye Centre A-10, sourth Extention, Part-II",
+    "phone": "+91-11-23340000",
+    "lat": 28.6119,
+    "lon": 77.217
+  },
+  {
+    "id": 924,
+    "name": "Visitech Eye Centre R-13, First Floor, Greater Kailash-I",
+    "phone": "0048 4173",
+    "lat": 28.546,
+    "lon": 77.243
+  },
+  {
+    "id": 925,
+    "name": "Walia Nursing and Maternity Home",
+    "phone": "0092 2254",
+    "lat": 28.6139,
+    "lon": 77.219
+  },
+  {
+    "id": 926,
+    "name": "Welcome Healthcare Centre",
+    "phone": "0047 2650",
+    "lat": 28.6149,
+    "lon": 77.22
+  },
+  {
+    "id": 927,
+    "name": "Westend Hospital 11/72,Tilak Nagar Tilak Nagar",
+    "phone": "0018 2591",
+    "lat": 28.6159,
+    "lon": 77.221
+  },
+  {
+    "id": 928,
+    "name": "Westend Nursing Home",
+    "phone": "0058 2550",
+    "lat": 28.6169,
+    "lon": 77.222
+  },
+  {
+    "id": 929,
+    "name": "World Brain Centre & Research Institute",
+    "phone": "0045 2538",
+    "lat": 28.6179,
+    "lon": 77.223
+  },
+  {
+    "id": 930,
+    "name": "Yadav Hospital P-3/235, Sultan Puri",
+    "phone": "0086 2547",
+    "lat": 28.6189,
+    "lon": 77.194
+  },
+  {
+    "id": 931,
+    "name": "Yogesh Eye Centre H.No.15, Pkt-B-5, Sector-4",
+    "phone": "0085 2704",
+    "lat": 28.7123,
+    "lon": 77.0981
+  },
+  {
+    "id": 932,
+    "name": "Yogmaya Hospital 876/6, Peelkhana, Main Market",
+    "phone": "30113020",
+    "lat": 28.524,
+    "lon": 77.171
+  },
+  {
+    "id": 933,
+    "name": "Zion Hospital & Neuro Centre, Nangloi",
+    "phone": "25971234",
+    "lat": 28.6833,
+    "lon": 77.0667
+  }
+]

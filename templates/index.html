@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>URBAN PULSE - Enterprise Emergency Response</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        :root {
+            --bg-dark: #0b0f19;
+            --bg-panel: #131b2e;
+            --bg-input: #0f172a;
+            --accent-red: #ef4444;
+            --accent-red-hover: #dc2626;
+            --border-color: #1e293b;
+            --text-main: #f8fafc;
+            --text-muted: #64748b;
+            --status-green: #10b981;
+            --whatsapp-green: #25d366;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        header {
+            background: #090d16;
+            border-bottom: 1px solid var(--accent-red);
+            padding: 0.75rem 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 60px;
+        }
+
+        .header-left {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .logo-dot {
+            width: 12px;
+            height: 12px;
+            background-color: var(--accent-red);
+            border-radius: 50%;
+            display: inline-block;
+            box-shadow: 0 0 8px var(--accent-red);
+            animation: pulse 1.5s infinite;
+        }
+
+        @keyframes pulse {
+            0% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.4; transform: scale(1.2); }
+            100% { opacity: 1; transform: scale(1); }
+        }
+
+        .logo-text {
+            font-size: 1.25rem;
+            font-weight: 900;
+            color: var(--accent-red);
+            letter-spacing: 1.5px;
+        }
+
+        .badge-tag {
+            background: rgba(30, 41, 59, 0.8);
+            border: 1px solid var(--border-color);
+            color: #94a3b8;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+        }
+
+        .header-right-telemetry {
+            display: flex;
+            gap: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: var(--text-muted);
+            letter-spacing: 0.5px;
+        }
+
+        .telemetry-val {
+            color: #e2e8f0;
+        }
+
+        main {
+            flex: 1;
+            display: grid;
+            grid-template-columns: 380px 1fr;
+            height: calc(100vh - 60px);
+            overflow: hidden;
+        }
+
+        .sidebar {
+            background: var(--bg-panel);
+            border-right: 1px solid var(--border-color);
+            padding: 1.25rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.9rem;
+            overflow-y: auto;
+        }
+
+        .sidebar-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 0.75rem;
+        }
+
+        .sidebar-title {
+            font-size: 0.85rem;
+            font-weight: 800;
+            letter-spacing: 1px;
+            color: #cbd5e1;
+        }
+
+        .online-badge {
+            font-size: 0.65rem;
+            font-weight: 800;
+            color: var(--status-green);
+            background: rgba(16, 185, 129, 0.1);
+            padding: 2px 6px;
+            border-radius: 3px;
+            border: 1px solid rgba(16, 185, 129, 0.2);
+        }
+
+        .control-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.4rem;
+        }
+
+        .control-label {
+            font-size: 0.7rem;
+            font-weight: 800;
+            color: #cbd5e1;
+            letter-spacing: 0.5px;
+        }
+
+        .input-box-row {
+            display: flex;
+            gap: 8px;
+        }
+
+        .text-input {
+            background: var(--bg-input);
+            border: 1px solid var(--border-color);
+            color: var(--text-main);
+            padding: 0.6rem 0.8rem;
+            border-radius: 6px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            width: 100%;
+            outline: none;
+        }
+
+        .btn-lock {
+            background: #1e293b;
+            border: 1px solid var(--border-color);
+            color: #f8fafc;
+            padding: 0 0.8rem;
+            border-radius: 6px;
+            font-size: 0.7rem;
+            font-weight: 800;
+            cursor: pointer;
+            white-space: nowrap;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .btn-lock:hover {
+            background: #334155;
+        }
+
+        .helper-text {
+            font-size: 0.65rem;
+            color: var(--text-muted);
+            line-height: 1.2;
+        }
+
+        select.text-input {
+            cursor: pointer;
+            appearance: none;
+            background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2394a3b8' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+            background-repeat: no-repeat;
+            background-position: right 0.7rem center;
+            background-size: 1em;
+        }
+
+        .btn-action {
+            background: var(--accent-red);
+            color: white;
+            border: none;
+            padding: 0.85rem;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            font-weight: 800;
+            letter-spacing: 0.5px;
+            cursor: pointer;
+            margin-top: 0.25rem;
+            transition: background 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+        }
+
+        .btn-action:hover {
+            background: var(--accent-red-hover);
+        }
+
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+        }
+
+        .metric-card {
+            background: var(--bg-input);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 0.8rem;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .metric-title {
+            font-size: 0.6rem;
+            font-weight: 800;
+            color: var(--text-muted);
+            letter-spacing: 0.5px;
+        }
+
+        .metric-val {
+            font-size: 1.1rem;
+            font-weight: 800;
+            color: #f8fafc;
+        }
+
+        /* FAMILY DRAFT SECTION */
+        .family-card {
+            background: var(--bg-input);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 0.8rem;
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            margin-top: auto;
+        }
+
+        .family-text {
+            background: #090d16;
+            border: 1px solid var(--border-color);
+            color: #cbd5e1;
+            font-size: 0.75rem;
+            padding: 8px;
+            border-radius: 4px;
+            line-height: 1.3;
+            resize: none;
+            height: 65px;
+        }
+
+        .btn-group-share {
+            display: flex;
+            gap: 6px;
+        }
+
+        .btn-copy {
+            flex: 1;
+            background: #334155;
+            color: #f8fafc;
+            border: none;
+            padding: 8px;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            font-weight: 700;
+            cursor: pointer;
+        }
+
+        .btn-copy:hover {
+            background: #475569;
+        }
+
+        .btn-whatsapp {
+            flex: 1;
+            background: #16a34a;
+            color: white;
+            border: none;
+            padding: 8px;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            font-weight: 700;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 4px;
+        }
+
+        .btn-whatsapp:hover {
+            background: #15803d;
+        }
+
+        #map-area {
+            width: 100%;
+            height: 100%;
+            position: relative;
+        }
+
+        #map {
+            width: 100%;
+            height: 100%;
+            background: #0f172a;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="header-left">
+            <span class="logo-dot"></span>
+            <span class="logo-text">URBAN PULSE</span>
+            <span class="badge-tag">EOC COMMAND V3.0 — PRODUCTION CORE</span>
+        </div>
+        <div class="header-right-telemetry">
+            <span>ENCRYPTION: <span class="telemetry-val">TLS 1.3 SECURE</span></span>
+            <span>GPS PROTOCOL: <span class="telemetry-val">ACTIVE STREAM</span></span>
+            <span>ROUTING ENGINE: <span class="telemetry-val">TOMTOM REST API</span></span>
+            <span>UTC CLOCK: <span class="telemetry-val" id="utc-clock">00:00:00</span></span>
+        </div>
+    </header>
+
+    <main>
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <span class="sidebar-title">DISPATCH CONTROLLER</span>
+                <span class="online-badge">ONLINE</span>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label">AMBULANCE LIVE POSITION</label>
+                <div class="input-box-row">
+                    <input type="text" id="gps-coords" class="text-input" value="28.5810, 77.2451" readonly />
+                    <button class="btn-lock" id="btn-lock-gps">📍 LOCK GPS</button>
+                </div>
+                <span class="helper-text">Continuously syncs with on-board vehicle telemetry sensor arrays.</span>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label">EMERGENCY SEVERITY PROTOCOL</label>
+                <select class="text-input" id="severity-select">
+                    <option value="red">🚨 CODE RED - Critical Life Threat (Priority 1)</option>
+                    <option value="yellow">⚠️ CODE YELLOW - Urgent Response (Priority 2)</option>
+                    <option value="green">ℹ️ CODE GREEN - Non-Emergency Transfer (Priority 3)</option>
+                </select>
+                <span class="helper-text">Adjusts routing priority weights and dynamic UI alerting.</span>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label">TARGET DESTINATION HOSPITAL</label>
+                <select class="text-input" id="hospital-select" disabled>
+                    <option value="auto">⚡ Auto-Route to Nearest Emergency Hub (Geodesic)</option>
+                </select>
+                <span class="helper-text">Leave on auto-routing for automated nearest-node dispatch.</span>
+            </div>
+
+            <button class="btn-action" id="btn-calculate-route">
+                ⚡ CALCULATE FASTEST EMERGENCY ROUTE
+            </button>
+
+            <!-- ASSIGNED HOSPITAL CARD -->
+            <div class="metric-card" style="border-left: 3px solid var(--accent-red);">
+                <span class="metric-title">ASSIGNED TARGET HOSPITAL</span>
+                <span class="metric-val" id="target-hospital-name" style="font-size: 0.95rem; color: #ef4444;">-- Not Dispatched --</span>
+            </div>
+
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <span class="metric-title">TOTAL DISTANCE</span>
+                    <span class="metric-val" id="metric-distance">-- km</span>
+                </div>
+                <div class="metric-card">
+                    <span class="metric-title">EST. TRAVEL TIME</span>
+                    <span class="metric-val" id="metric-eta">-- min</span>
+                </div>
+            </div>
+
+            <!-- FAMILY EMERGENCY NOTIFICATION CARD -->
+            <div class="family-card">
+                <span class="metric-title">📲 DIRECT FAMILY NOTIFICATION</span>
+                <textarea id="family-msg-box" class="family-text" readonly>Click 'Calculate Route' to build family notification message...</textarea>
+                <div class="btn-group-share">
+                    <button class="btn-copy" id="btn-copy-msg">📋 Copy Text</button>
+                    <button class="btn-whatsapp" id="btn-send-whatsapp">💬 Send on WhatsApp</button>
+                </div>
+            </div>
+        </aside>
+
+        <section id="map-area">
+            <div id="map"></div>
+        </section>
+    </main>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        function updateClock() {
+            const now = new Date();
+            document.getElementById('utc-clock').innerText = now.toUTCString().split(' ')[4];
+        }
+        setInterval(updateClock, 1000);
+        updateClock();
+
+        const map = L.map('map').setView([28.5810, 77.2451], 13);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '© URBAN PULSE Dispatch Engine'
+        }).addTo(map);
+
+        let vehicleMarker = L.marker([28.5810, 77.2451]).addTo(map)
+            .bindPopup("<b>Ambulance Current Location</b>").openPopup();
+            
+        let currentRouteLayer = null;
+        let currentRawMsg = "";
+
+        fetch('/api/hospitals')
+            .then(res => res.json())
+            .then(data => {
+                if (data.data) {
+                    data.data.forEach(h => {
+                        L.marker([h.latitude, h.longitude]).addTo(map)
+                            .bindPopup(`<b>${h.name}</b><br>Emergency Facility Available`);
+                    });
+                }
+            })
+            .catch(err => console.error("Error loading hospitals:", err));
+
+        document.getElementById('btn-lock-gps').addEventListener('click', () => {
+            if (!navigator.geolocation) {
+                alert("Geolocation not supported by your browser.");
+                return;
+            }
+            navigator.geolocation.getCurrentPosition(pos => {
+                const lat = pos.coords.latitude.toFixed(4);
+                const lon = pos.coords.longitude.toFixed(4);
+                document.getElementById('gps-coords').value = `${lat}, ${lon}`;
+                vehicleMarker.setLatLng([lat, lon]).bindPopup("<b>Ambulance Current Location</b>").openPopup();
+                map.setView([lat, lon], 14);
+            });
+        });
+
+        document.getElementById('btn-calculate-route').addEventListener('click', () => {
+            const coordsText = document.getElementById('gps-coords').value;
+            const [lat, lon] = coordsText.split(',').map(n => parseFloat(n.trim()));
+
+            fetch('/api/nearest', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ latitude: lat, longitude: lon })
+            })
+            .then(res => res.json())
+            .then(data => {
+                if (data.nearest && data.nearest.length > 0) {
+                    const nearest = data.nearest[0];
+                    const hospitalName = nearest.name || "Emergency Medical Center";
+                    document.getElementById('target-hospital-name').innerText = hospitalName;
+                    
+                    const osrmUrl = `https://router.project-osrm.org/route/v1/driving/${lon},${lat};${nearest.longitude},${nearest.latitude}?overview=full&geometries=geojson`;
+
+                    fetch(osrmUrl)
+                        .then(resp => resp.json())
+                        .then(routeData => {
+                            if (routeData.routes && routeData.routes.length > 0) {
+                                const route = routeData.routes[0];
+                                const distanceKm = (route.distance / 1000).toFixed(2);
+                                const durationMins = Math.round(route.duration / 60);
+
+                                document.getElementById('metric-distance').innerText = `${distanceKm} km`;
+                                document.getElementById('metric-eta').innerText = `${durationMins} min`;
+
+                                currentRawMsg = `🚨 *URBAN PULSE EMERGENCY UPDATE*\n\nAn ambulance has been dispatched to *${hospitalName}*.\n\n📍 *Distance:* ${distanceKm} km\n⏱️ *Estimated ETA:* ${durationMins} min\n\nLive telemetry route active.`;
+                                document.getElementById('family-msg-box').value = currentRawMsg;
+
+                                if (currentRouteLayer) map.removeLayer(currentRouteLayer);
+
+                                currentRouteLayer = L.geoJSON(route.geometry, {
+                                    style: { color: '#ef4444', weight: 5, opacity: 0.9 }
+                                }).addTo(map);
+
+                                map.fitBounds(currentRouteLayer.getBounds(), { padding: [60, 60] });
+                            } else {
+                                fallbackDirectRoute(lat, lon, nearest);
+                            }
+                        })
+                        .catch(() => fallbackDirectRoute(lat, lon, nearest));
+                } else {
+                    alert("No registered hospitals found near your coordinates.");
+                }
+            })
+            .catch(err => {
+                console.error("Routing error:", err);
+                alert("Error connecting to backend routing engine.");
+            });
+        });
+
+        function fallbackDirectRoute(lat, lon, nearest) {
+            const hospitalName = nearest.name || "Emergency Medical Center";
+            const durationMins = Math.round(nearest.estimated_eta_mins || (nearest.distance_km * 1.5));
+            document.getElementById('target-hospital-name').innerText = hospitalName;
+            document.getElementById('metric-distance').innerText = `${nearest.distance_km} km`;
+            document.getElementById('metric-eta').innerText = `${durationMins} min`;
+            
+            currentRawMsg = `🚨 *URBAN PULSE EMERGENCY UPDATE*\n\nAn ambulance has been dispatched to *${hospitalName}*.\n\n📍 *Distance:* ${nearest.distance_km} km\n⏱️ *Estimated ETA:* ${durationMins} min.`;
+            document.getElementById('family-msg-box').value = currentRawMsg;
+
+            if (currentRouteLayer) map.removeLayer(currentRouteLayer);
+            currentRouteLayer = L.polyline([[lat, lon], [nearest.latitude, nearest.longitude]], { 
+                color: '#ef4444', weight: 5, opacity: 0.9, dashArray: '10, 10' 
+            }).addTo(map);
+            map.fitBounds([[lat, lon], [nearest.latitude, nearest.longitude]], { padding: [60, 60] });
+        }
+
+        // Copy Message
+        document.getElementById('btn-copy-msg').addEventListener('click', () => {
+            const msgBox = document.getElementById('family-msg-box');
+            msgBox.select();
+            document.execCommand('copy');
+            alert("Emergency message copied to clipboard!");
+        });
+
+        // Direct WhatsApp Sharing
+        document.getElementById('btn-send-whatsapp').addEventListener('click', () => {
+            if (!currentRawMsg) {
+                alert("Please calculate a route first to generate the message.");
+                return;
+            }
+            const whatsappUrl = `https://api.whatsapp.com/send?text=${encodeURIComponent(currentRawMsg)}`;
+            window.open(whatsappUrl, '_blank');
+        });
+    </script>
+</body>
+</html>
